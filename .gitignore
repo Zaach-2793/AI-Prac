@@ -1,0 +1,12 @@
+.env
+.venv
+env/
+venv/
+
+.python-version
+__pycache__/
+.ipynb_checkpoints
+
+.DS_Store
+
+clustering_results/
