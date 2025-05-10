@@ -91,7 +91,7 @@ def main():
     cluster_path = output_dir / "cluster_summary.csv"
     papers_path = output_dir / "papers_with_clusters.csv"
     taxonomy_path = Path("constants") / "taxonomy_tree.py"
-    api_key = "e9f81f80dcc23956c59b52785e7ceb2c50c66c519ce20ec61cf56272ee99b694"
+    api_key = os.environ.get("TOGETHER_API_KEY")
 
     if run_clustering_pipeline(data_path, output_dir):
         run_labeling_pipeline(cluster_path, papers_path, taxonomy_path, api_key)
