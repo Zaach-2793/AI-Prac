@@ -28,7 +28,7 @@ class CitationEvaluationReporter:
         n_random_pairs: int = 1000
     ) -> Dict:
         """
-        Generates comprehensive evaluation report with both methods.
+        Generates comprehensive report with both methods.
         """
         # Run evaluations
         coverage_df = self.coverage_evaluator.evaluate_coverage(sample_size)
@@ -41,7 +41,6 @@ class CitationEvaluationReporter:
         coverage_fig = self.coverage_evaluator.visualize_coverage_trend(coverage_df)
         gcd_fig = self.gcd_evaluator.visualize_gcd_comparison(gcd_df)
         
-        # Combine results
         results = {
             'coverage_analysis': coverage_analysis,
             'gcd_analysis': gcd_analysis,
@@ -58,7 +57,6 @@ class CitationEvaluationReporter:
             coverage_fig.savefig(f"{output_path}/coverage_trend.png", dpi=300, bbox_inches='tight')
             gcd_fig.savefig(f"{output_path}/gcd_comparison.png", dpi=300, bbox_inches='tight')
             
-            # Save summary metrics
             self._write_report_summary(results, f"{output_path}/evaluation_summary.txt")
         
         return results
@@ -101,7 +99,6 @@ class CitationEvaluationReporter:
             f.write(f"Citation GCD Mean: {results['gcd_analysis']['citation_gcd_mean']:.4f}\n")
             f.write(f"Random GCD Mean: {results['gcd_analysis']['random_gcd_mean']:.4f}\n")
             f.write(f"GCD Difference: {results['gcd_analysis']['gcd_difference']:.4f}\n")
-            f.write(f"Statistical Significance (p-value): {results['gcd_analysis']['p_value']:.6f}\n")
             
             # Overall assessment
             f.write("\n3. Overall Assessment\n")

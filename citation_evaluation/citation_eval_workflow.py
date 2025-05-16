@@ -7,7 +7,7 @@ from .coverage_evaluator import SubtopicCoverageEvaluator
 from .gcd_evaluator import GCDSubtopicEvaluator
 from .reporter import CitationEvaluationReporter
 
-def load_data(data_dir='hierarchy_data'):
+def load_data(data_dir='citation_evaluation/data_for_eval'):
     """Load data for evaluation."""
     data_path = Path(data_dir)
     
@@ -19,7 +19,7 @@ def load_data(data_dir='hierarchy_data'):
     hierarchy = {int(k): v for k, v in hierarchy_str.items()}
     
     # Load citations
-    citations = pd.read_csv(data_path / "citations.csv")
+    citations = pd.read_csv(data_path / "filtered_citations.csv")
     
     return hierarchy, citations
 

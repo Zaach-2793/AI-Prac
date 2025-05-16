@@ -99,7 +99,6 @@ class SubtopicCoverageEvaluator(BaseCitationEvaluator):
         ax.errorbar(
             level_coverage['level'], 
             level_coverage['mean'], 
-            yerr=level_coverage['std'],
             marker='o',
             linestyle='-',
             capsize=5

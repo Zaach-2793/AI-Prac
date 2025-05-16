@@ -88,6 +88,6 @@ def gen_hierarchy(csv_path, output_path):
 
 if __name__ == "__main__":
     csv_path = "clustering_results/papers_with_clusters.csv"
-    output_path = "hierarchy_data/hierarchy.json"
+    output_path = "citation_evaluation/data_for_eval/hierarchy.json"
     
     hierarchy = gen_hierarchy(csv_path, output_path)
