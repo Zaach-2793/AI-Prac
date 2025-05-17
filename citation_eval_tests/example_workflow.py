@@ -42,7 +42,7 @@ def run_example_evaluation():
         print(f"Level {level} average coverage: {coverage:.4f}")
     
     analysis = coverage_eval.analyze_coverage_trend()
-    print(f"Coverage decreasing with broader topics: {analysis['is_decreasing']}")    
+    print(f"Coverage increasing with more fine-grained topics: {analysis['is_decreasing']}")    
     fig1 = coverage_eval.visualize_coverage_trend()
     
     # Evaluate using GCD Subtopic method

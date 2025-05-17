@@ -91,7 +91,7 @@ class CitationEvaluationReporter:
             for level, coverage in results['coverage_analysis']['coverage_by_level'].items():
                 f.write(f"Level {level}: {coverage:.4f}\n")
             
-            f.write(f"\nCoverage Monotonically Decreasing: {results['coverage_analysis']['is_decreasing']}\n")
+            f.write(f"\nCoverage Monotonically Increasing: {results['coverage_analysis']['is_decreasing']}\n")
             
             # GCD evaluation
             f.write("\n2. GCD Subtopic Evaluation\n")

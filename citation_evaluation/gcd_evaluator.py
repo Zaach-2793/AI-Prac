@@ -106,7 +106,6 @@ class GCDSubtopicEvaluator(BaseCitationEvaluator):
             
         # Calculate statistics for citation and random pairs
         citation_gcds = gcd_df[gcd_df['is_citation'] == 1]['gcd_level']
-        print(f"citation_gcds: \n{citation_gcds}\n")
         random_gcds = gcd_df[gcd_df['is_citation'] == 0]['gcd_level']
         
         citation_mean = citation_gcds.mean()
@@ -162,6 +161,7 @@ class GCDSubtopicEvaluator(BaseCitationEvaluator):
         
         ax.set_xlabel('GCD Subtopic Level (higher = more specific)')
         ax.set_ylabel('Number of Paper Pairs')
+        ax.set_xticks([0, 1, 2, 3])
         ax.set_title(title)
         ax.legend()
         ax.text(

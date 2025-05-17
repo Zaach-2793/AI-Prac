@@ -9,7 +9,7 @@ Level 1: 0.0018
 Level 2: 0.0301
 Level 3: 0.0360
 
-Coverage Monotonically Decreasing: True
+Coverage Monotonically Increasing: True
 
 2. GCD Subtopic Evaluation
 -------------------------

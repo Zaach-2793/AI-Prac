@@ -29,7 +29,6 @@ def run_evaluation():
     hierarchy, citations = load_data()
     
     print(f"Loaded hierarchy with {len(hierarchy)} levels")
-    print(f"Loaded {len(citations)} citation relationships")
     
     # Evaluate using SubtopicCoverage method
     print("\n--- Subtopic Coverage Evaluation ---")
@@ -42,7 +41,7 @@ def run_evaluation():
         print(f"Level {level} average coverage: {coverage:.4f}")
     
     analysis = coverage_eval.analyze_coverage_trend()
-    print(f"Coverage decreasing with broader topics: {analysis['is_decreasing']}")    
+    print(f"Coverage increasing with more fine-grained topics: {analysis['is_decreasing']}")    
     fig1 = coverage_eval.visualize_coverage_trend()
     
     # Evaluate using GCD Subtopic method
@@ -62,10 +61,10 @@ def run_evaluation():
     # Generate combined report
     print("\n--- Generating Full Report ---")
     reporter = CitationEvaluationReporter(hierarchy, citations)
-    results = reporter.generate_full_report(output_path="evaluation_results")
+    results = reporter.generate_full_report(output_path="citation_eval_results")
     
-    print(f"Report saved to 'evaluation_results' directory")
-    print(f"Overall hierarchy validity: {results['overall_quality']['overall_valid']}")
+    print(f"Report saved to 'citation_eval_results' directory")
+    print(f"Overall hierarchy validity: {results['overall_quality']['overall_valid']}\n")
     
     plt.show()
 
