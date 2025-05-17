@@ -98,8 +98,7 @@ class SubtopicCoverageEvaluator(BaseCitationEvaluator):
         # Plot mean coverage with error bars
         ax.errorbar(
             level_coverage['level'], 
-            level_coverage['mean'], 
-            yerr=level_coverage['std'],
+            level_coverage['mean'] * 100, 
             marker='o',
             linestyle='-',
             capsize=5
@@ -107,6 +106,7 @@ class SubtopicCoverageEvaluator(BaseCitationEvaluator):
         
         ax.set_xlabel('Hierarchy Level (0 = broadest)')
         ax.set_ylabel('Mean Coverage (% of cluster papers cited)')
+        ax.set_xticks([0,1,2,3])
         ax.set_title(title)
         ax.grid(True, linestyle='--', alpha=0.7)
         

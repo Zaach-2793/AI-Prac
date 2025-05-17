@@ -161,6 +161,7 @@ class GCDSubtopicEvaluator(BaseCitationEvaluator):
         
         ax.set_xlabel('GCD Subtopic Level (higher = more specific)')
         ax.set_ylabel('Number of Paper Pairs')
+        ax.set_xticks([0, 1, 2, 3])
         ax.set_title(title)
         ax.legend()
         ax.text(

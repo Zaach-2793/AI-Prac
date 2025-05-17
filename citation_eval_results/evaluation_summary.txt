@@ -1,0 +1,25 @@
+Hierarchical Citation Evaluation Summary
+======================================
+
+1. Subtopic Coverage Evaluation
+------------------------------
+Subtopic Coverage by Level:
+Level 0: 0.0002
+Level 1: 0.0018
+Level 2: 0.0301
+Level 3: 0.0360
+
+Coverage Monotonically Increasing: True
+
+2. GCD Subtopic Evaluation
+-------------------------
+Citation GCD Mean: 2.4194
+Random GCD Mean: 0.3370
+GCD Difference: 2.0824
+
+3. Overall Assessment
+--------------------
+Coverage Trend Valid: True
+GCD Comparison Valid: True
+GCD Comparison Statistically Significant: True
+Overall Hierarchy Validity: True
