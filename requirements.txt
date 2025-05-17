@@ -65,6 +65,7 @@ scipy==1.15.2
 six==1.17.0
 stack-data==0.6.3
 sympy==1.13.3
+sentence_transformers==2.2.2
 threadpoolctl==3.6.0
 tokenizers==0.21.0
 tomli==2.2.1

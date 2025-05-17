@@ -1,0 +1,352 @@
+category,subcategory,fine_topic_label,paper_count
+astro-ph,astro-ph.CO,Dark Energy Neutrino Interaction,29
+astro-ph,astro-ph.CO,Galaxy Mass Evolution,19
+astro-ph,astro-ph.CO,Cosmology and Nongalactic Astrophysics,2
+astro-ph,astro-ph.EP,Polarization Comets Solar,29
+astro-ph,astro-ph.EP,Secondary Planetary Eclipses,12
+astro-ph,astro-ph.EP,Earth and Planetary Astrophysics,9
+astro-ph,astro-ph.GA,Magnetic Star Mass Interaction,31
+astro-ph,astro-ph.GA,Emission Ionized Diffuse,12
+astro-ph,astro-ph.GA,Galactic Astrophysics,7
+astro-ph,astro-ph.HE,Gammaray Grb Emission,25
+astro-ph,astro-ph.HE,Radio-Optical Spectra Analysis,16
+astro-ph,astro-ph.HE,High Energy Astrophysical Phenomena,9
+astro-ph,astro-ph.IM,Background Astronomy Images,33
+astro-ph,astro-ph.IM,Polarization Astronomical Excellent,10
+astro-ph,astro-ph.IM,Instrumentation and Methods for Astrophysics,7
+astro-ph,astro-ph.SR,Magnetic Fields In Star Clusters,32
+astro-ph,astro-ph.SR,Coronal Loop Outflow Model,13
+astro-ph,astro-ph.SR,Solar and Stellar Astrophysics,5
+cond-mat,cond-mat.dis-nn,Aging Spin Model Field Study,33
+cond-mat,cond-mat.dis-nn,Replica Symmetry Transition Replica,12
+cond-mat,cond-mat.dis-nn,Disordered Systems and Neural Networks,5
+cond-mat,cond-mat.mes-hall,Quantum Hall Transition Conductance,9
+cond-mat,cond-mat.mes-hall,Mesoscopic Systems and Quantum Hall Effect,8
+cond-mat,cond-mat.mes-hall,Density States Density States,7
+cond-mat,cond-mat.mes-hall,Double Wire Conductance Formula Solution,7
+cond-mat,cond-mat.mes-hall,Persistent Currents Persistent Currents,7
+cond-mat,cond-mat.mes-hall,Fractional Quantum Hall States,6
+cond-mat,cond-mat.mes-hall,Persistent Current Generalized Calculated,6
+cond-mat,cond-mat.mtrl-sci,Ev Materials Energy Calculation Method,29
+cond-mat,cond-mat.mtrl-sci,Materials Science,11
+cond-mat,cond-mat.mtrl-sci,Crack Velocity Model Simulations,10
+cond-mat,cond-mat.other,Condensate Resonance Atoms,33
+cond-mat,cond-mat.other,Other Condensed Matter,17
+cond-mat,cond-mat.quant-gas,Interaction Condensates Optical,25
+cond-mat,cond-mat.quant-gas,Quantum Gases,15
+cond-mat,cond-mat.quant-gas,Superfluid Phase Transition In Disordered,10
+cond-mat,cond-mat.soft,Critical Surface Phase Model,45
+cond-mat,cond-mat.soft,Soft Condensed Matter,5
+cond-mat,cond-mat.stat-mech,Critical Phase Transition Modeling,24
+cond-mat,cond-mat.stat-mech,Critical Anisotropic Surface Scaling,14
+cond-mat,cond-mat.stat-mech,Interaction Models Matrix,11
+cond-mat,cond-mat.stat-mech,Statistical Mechanics,1
+cond-mat,cond-mat.str-el,Strongly Correlated Electrons,28
+cond-mat,cond-mat.str-el,Correlations Transition Effective,12
+cond-mat,cond-mat.str-el,Fermi Surface Coupling Surface,10
+cond-mat,cond-mat.supr-con,Superconductivity,31
+cond-mat,cond-mat.supr-con,Flux Vortex Interaction States,19
+cs,cs.AI,Information Learning Programs,23
+cs,cs.AI,Search Algorithm Decision Function,17
+cs,cs.AI,Artificial Intelligence,10
+cs,cs.AR,Reconfigurable Data Memory Applications,21
+cs,cs.AR,Reversible Proposed Circuits,19
+cs,cs.AR,Hardware Architecture,10
+cs,cs.CC,Hierarchy Language Order,35
+cs,cs.CC,Solvable Problem Instances,12
+cs,cs.CC,Computational Complexity,3
+cs,cs.CE,Market Price Data Modeling,24
+cs,cs.CE,Agent-Based Exchange Server Design,13
+cs,cs.CE,"Computational Engineering, Finance, and Science",13
+cs,cs.CG,Algorithm Present Points,26
+cs,cs.CG,Computational Geometry Problems,18
+cs,cs.CG,Computational Geometry,6
+cs,cs.CL,Lexical Data Annotation Tagger,22
+cs,cs.CL,Speech Grammar Processing Rules,16
+cs,cs.CL,Computation and Language,12
+cs,cs.CR,Homomorphic Cipher Groups,25
+cs,cs.CR,Algorithm Analysis Protocol,15
+cs,cs.CR,Cryptography and Security,10
+cs,cs.CV,Image-Based Algorithm Development,30
+cs,cs.CV,Computer Vision and Pattern Recognition,20
+cs,cs.CY,Internet Paper Regulatory Policy,46
+cs,cs.CY,Computers and Society,4
+cs,cs.DB,Language Database Queries,24
+cs,cs.DB,Information Management Database,22
+cs,cs.DB,Databases,4
+cs,cs.DC,Parallel Algorithm Register Control,27
+cs,cs.DC,Grid Data Scheduling,18
+cs,cs.DC,"Distributed, Parallel, and Cluster Computing",5
+cs,cs.DL,Eprint Data Mining,31
+cs,cs.DL,Digital Library Information Digital,17
+cs,cs.DL,Digital Libraries,2
+cs,cs.DM,Graph Author Problem Analysis,41
+cs,cs.DM,Discrete Mathematics,9
+cs,cs.DS,Set Problem Algorithms,25
+cs,cs.DS,Data Structure Structure Analysis,16
+cs,cs.DS,Data Structures and Algorithms,9
+cs,cs.ET,Dna-Based Reversible Logic,35
+cs,cs.ET,Emerging Technologies,15
+cs,cs.FL,Regular Automata Algorithm,18
+cs,cs.FL,Generated Grammars Language,15
+cs,cs.FL,Pushdown Automata Conjecture Proof,13
+cs,cs.FL,Formal Languages and Automata Theory,4
+econ,econ.EM,Distribution Economic Pricing,29
+econ,econ.EM,Treatment Effects Unobserved Treatment,11
+econ,econ.EM,Econometrics,10
+econ,econ.GN,New Group Economic Model Complexity,29
+econ,econ.GN,General Economics,11
+econ,econ.GN,World Cultural Economic Analysis,10
+econ,econ.TH,Agent Belief Models,30
+econ,econ.TH,Information Energy Point,10
+econ,econ.TH,Theoretical Economics,10
+gr-qc,gr-qc,Black Hole Quantum Field,22
+gr-qc,gr-qc,General Relativity and Quantum Cosmology,16
+gr-qc,gr-qc,Equivalence Of Gravity Gauges,12
+hep-ex,hep-ex,Quark Jet Cross Production,22
+hep-ex,hep-ex,Polarization Scattering Asymmetry,14
+hep-ex,hep-ex,Pi - Ratio In P-P,10
+hep-ex,hep-ex,High Energy Physics - Experiment,4
+hep-lat,hep-lat,Chiral Fermion Mass Simulation,24
+hep-lat,hep-lat,Monte Carlo Algorithm Critical,24
+hep-lat,hep-lat,High Energy Physics - Lattice,2
+hep-ph,hep-ph,Electroweak Models Model,21
+hep-ph,hep-ph,Loop Quantum Field Calculation,6
+hep-th,hep-th,Quantum Spatial State Models,22
+hep-th,hep-th,High Energy Physics - Theory,15
+hep-th,hep-th,Conformal Field Theory Fermions,13
+math,math.AC,Graded Local Rings,38
+math,math.AC,Resolution Minimal Ideals,11
+math,math.AC,Commutative Algebra,1
+math,math.AG,Vector Bundle Cohomology,32
+math,math.AG,Algebraic Geometry,18
+math,math.AP,Equations Solutions Equation,43
+math,math.AP,Differential Operator Analysis,7
+math,math.AT,Symmetric Space Models,27
+math,math.AT,Homotopy Group Cohomology Computation,16
+math,math.AT,Algebraic Topology,7
+math,math.CA,Orthogonal Polynomials Polynomials Orthogonal,44
+math,math.CA,Classical Analysis and ODEs,6
+math,math.CO,Given Graph Number Sets Proof,38
+math,math.CO,Binomial Function Sequences,12
+math,math.CT,Categories Category Monoidal,26
+math,math.CT,Category Theory,24
+math,math.CV,Complex Variables,26
+math,math.CV,Analytic Homeomorphisms Theorem,24
+math,math.DG,Differential Bundle Vector,18
+math,math.DG,Infinite Function Manifolds,18
+math,math.DG,Differential Geometry,14
+math,math.DS,Measure Prove Maps,39
+math,math.DS,Dynamical Systems,11
+math,math.FA,Operator Space Interpolation,27
+math,math.FA,Banach Space Isomorphism,14
+math,math.FA,Functional Analysis,9
+math,math.GM,General Mathematics,20
+math,math.GM,Polynomial Sequences Problems,17
+math,math.GM,Mathematical Devoted Article,13
+math,math.GN,Topological Spaces And Groups,40
+math,math.GN,General Topology,10
+math,math.GR,Group Theory,19
+math,math.GR,Available Group Algorithms,16
+math,math.GR,Biautomatic Hyperbolic Groups,15
+math,math.GT,Closed Hyperbolic Manifold Groups,24
+math,math.GT,Dehn Homology Theory Applications,15
+math,math.GT,Geometric Topology,11
+math,math.HO,Mathematical Electronic Algebra,15
+math,math.HO,Author S Number Theory Sketch,14
+math,math.HO,Complexity In Theoretical Mathematics And,12
+math,math.HO,History and Overview,9
+math,math.IT,Information Distortion Channels,34
+math,math.IT,Quantum Binary Codes,16
+math,math.KT,Cyclic Hopf Algebra Cohomology,17
+math,math.KT,Group Isomorphism Conjecture Proof,17
+math,math.KT,K-Theory and Homology,16
+math,math.LO,Logic,23
+math,math.LO,Iteration Section Omega,16
+math,math.LO,Universal Ordering Uniform,11
+math,math.MG,Convex Plane Set Theorem Problem,38
+math,math.MG,Conjecture Density Packing,11
+math,math.MG,Mathematical Logic,1
+math,math.MP,Mathematical Physics,28
+math,math.MP,Equations Solutions Equation,22
+math,math.NA,Nonlinear Numerical Solution Methods,49
+math,math.NA,Numerical Analysis,1
+math,math.NT,Finite Field Functions,14
+math,math.NT,Number Theory,14
+math,math.NT,Riemann Zeta Function Flooring,12
+math,math.NT,Galois Representations Representations Modular Forms,10
+math,math.OA,Finite Group Calgebra Products,30
+math,math.OA,Operator Algebras,20
+math,math.OC,Fractionalorder Systems Control,44
+math,math.OC,Optimization and Control,6
+math,math.PR,Brownian Motion In Space,23
+math,math.PR,Random Walk Independent Random,20
+math,math.PR,Probability,7
+math,math.QA,Hopf Algebras Algebras Quantum,29
+math,math.QA,Quantum Cohomology Polynomials,19
+math,math.QA,Quantum Algebra,2
+math,math.RA,Finite Algebra Variety Congruence,14
+math,math.RA,Real Matrix Eigenvalue Bounds,12
+math,math.RA,Dimension Algebras Clifford,11
+math,math.RA,Dimension Groups Group,10
+math,math.RA,Rings and Algebras,3
+math,math.RT,Irreducible Lie Algebra Representations,27
+math,math.RT,Prehomogeneous Vector Spaces,20
+math,math.RT,Representation Theory,3
+math,math.SG,Hamiltonian Symplectic Lagrangian,40
+math,math.SG,Symplectic Geometry,10
+math,math.SP,Eigenvalues Operators Operator,34
+math,math.SP,Matrix-Valued Schrodinger Operators Theorem,13
+math,math.SP,Statistics Theory,3
+math,math.ST,Likelihood-Based Parameter Variance Analysis,18
+math,math.ST,Deconvolution Estimators Asymptotic,13
+math,math.ST,Angle Regression Model Discussion,12
+math,math.ST,Statistics,7
+math-ph,math-ph,Mathematical Physics,28
+math-ph,math-ph,Equation Systems Solutions,22
+nlin,nlin.AO,Adaptation and Self-Organizing Systems,21
+nlin,nlin.AO,Distribution Information Different,18
+nlin,nlin.AO,Structure Avalanche Dynamical,11
+nlin,nlin.CD,Lyapunov Billiard Maps,23
+nlin,nlin.CD,Time Series Modeling Methods,22
+nlin,nlin.CD,Chaotic Dynamics,5
+nlin,nlin.CG,Cellular Automata Automata Cellular,25
+nlin,nlin.CG,Cellular Automata and Lattice Gases,14
+nlin,nlin.CG,Microscopic Approach Coarse,11
+nlin,nlin.PS,Soliton Dynamics Equations,24
+nlin,nlin.PS,Dark Spatial Optical Solitons,19
+nlin,nlin.PS,Pattern Formation and Solitons,7
+nlin,nlin.SI,Exactly Solvable and Integrable Systems,17
+nlin,nlin.SI,Transformations Present Models,17
+nlin,nlin.SI,Nonlinear Equations Solutions,16
+nucl-ex,nucl-ex,Mev Energy Flow Analysis,44
+nucl-ex,nucl-ex,Nuclear Experiment,6
+nucl-th,nucl-th,Rotational Nuclear Approximation Model,31
+nucl-th,nucl-th,Nuclear Theory,19
+physics,physics.acc-ph,Radiation Undulator Bunch,38
+physics,physics.acc-ph,Colliders Discussed Beambeam,12
+physics,physics.ao-ph,Multi-Layer Cloud Precipitation Model,38
+physics,physics.ao-ph,Ensemble Probabilistic Temperature Forecasts,10
+physics,physics.ao-ph,Atmospheric and Oceanic Physics,2
+physics,physics.app-ph,Antenna Power Solar,26
+physics,physics.app-ph,Frequency Nonlinear Dynamic,21
+physics,physics.app-ph,Applied Physics,3
+physics,physics.atm-clus,Laser-Induced Atomic Cluster Energy,49
+physics,physics.atm-clus,Atomic and Molecular Clusters,1
+physics,physics.atom-ph,Correction Hyperfine Nuclear,21
+physics,physics.atom-ph,Momentum-Trapped State Equations,19
+physics,physics.atom-ph,Atomic Physics,10
+physics,physics.bio-ph,Human Cell Motion Modeling,26
+physics,physics.bio-ph,Biological Physics,13
+physics,physics.bio-ph,Lipid Bilayer Temperature Dependence,11
+physics,physics.chem-ph,Quantum State Energy Dynamics,39
+physics,physics.chem-ph,Algebraic Model Vibrations Algebraic,10
+physics,physics.chem-ph,Chemical Physics,1
+physics,physics.class-ph,Classical Physics,21
+physics,physics.class-ph,Maxwell Lagrangian Solutions,17
+physics,physics.class-ph,Electromagnetic Radiation Particle,12
+physics,physics.comp-ph,Algorithmic Physics Systems,29
+physics,physics.comp-ph,Computational Physics,21
+physics,physics.data-an,Distribution Information Approach,26
+physics,physics.data-an,"Data Analysis, Statistics and Probability",13
+physics,physics.data-an,Gaussian Mixture Entropy Analysis,11
+physics,physics.ed-ph,Quantum Physics Course Field Analysis,28
+physics,physics.ed-ph,Motion Equation Problems,17
+physics,physics.ed-ph,Physics Education,5
+physics,physics.flu-dyn,Collapse Velocity Fluid,49
+physics,physics.flu-dyn,Fluid Dynamics,1
+physics,physics.gen-ph,New Quantum Gravitational Relativity,21
+physics,physics.gen-ph,General Physics,17
+physics,physics.gen-ph,Critical Lorentz Speed Particles Vacuum,12
+physics,physics.geo-ph,Distribution Aftershocks Earths,24
+physics,physics.geo-ph,Ionospheric Tec Gps Response,19
+physics,physics.geo-ph,Geophysics,7
+physics,physics.hist-ph,Quantum General Relativity Theory,21
+physics,physics.hist-ph,History and Philosophy of Physics,18
+physics,physics.hist-ph,Astronomical Chronology Historical,11
+physics,physics.ins-det,X-Ray Radiation Channel Triggering,21
+physics,physics.ins-det,- High Energy Neutron Detector,19
+physics,physics.ins-det,Instrumentation and Detectors,10
+physics,physics.med-ph,Dose Field Model Reconstruction,38
+physics,physics.med-ph,Gpcalma Lesion Image Grid Analysis,9
+physics,physics.med-ph,Medical Physics,3
+physics,physics.optics,Scattering Nonlinear Light,27
+physics,physics.optics,Laser Cavity Mode States,19
+physics,physics.optics,Optics,4
+physics,physics.plasm-ph,Magnetic Plasma Field,28
+physics,physics.plasm-ph,Kinetic Plasma Equation Modeling,12
+physics,physics.plasm-ph,Plasma Physics,10
+physics,physics.pop-ph,Popular Physics,27
+physics,physics.pop-ph,Quantum World Theory,23
+physics,physics.soc-ph,Languages Different Physics,37
+physics,physics.soc-ph,Power Network Market Function,13
+physics,physics.space-ph,Line Period Experiments,18
+physics,physics.space-ph,Solar Magnetic Waves,17
+physics,physics.space-ph,Space Physics,15
+q-bio,q-bio.BM,Proteins Sequence Folding,27
+q-bio,q-bio.BM,Kinesin Length Myosin,17
+q-bio,q-bio.BM,Biomolecules,6
+q-bio,q-bio.CB,Modeling Cell Growth Patterns,42
+q-bio,q-bio.CB,Cell Behavior,8
+q-bio,q-bio.GN,Gene Editing Sequence Analysis,50
+q-bio,q-bio.MN,Networks Network Protein,26
+q-bio,q-bio.MN,Molecular Networks,12
+q-bio,q-bio.MN,Stability Switch Model,12
+q-bio,q-bio.NC,Neuron Noise Network Computation,18
+q-bio,q-bio.NC,Neurons and Cognition,18
+q-bio,q-bio.NC,Spike Signal Response Analysis,14
+q-bio,q-bio.OT,Genetic Code Genetic Number,49
+q-bio,q-bio.OT,Other Quantitative Biology,1
+q-bio,q-bio.PE,Species Epidemic Mutation Model,42
+q-bio,q-bio.PE,Demographic Longevity Mortality,8
+q-bio,q-bio.QM,Model Comparison For Quantitative Biology,21
+q-bio,q-bio.QM,Experiments Expression Biology,17
+q-bio,q-bio.QM,Quantitative Methods,12
+q-bio,q-bio.SC,Chromatin Motor Cargo Model,27
+q-bio,q-bio.SC,Membrane Protein Field Oscillations,13
+q-bio,q-bio.SC,Subcellular Processes,10
+q-bio,q-bio.TO,Growth Tissue Model,49
+q-bio,q-bio.TO,Tissues and Organs,1
+q-fin,q-fin.CP,Carlo Volatility Method,46
+q-fin,q-fin.CP,Computational Finance,4
+q-fin,q-fin.EC,Countries Products Market,19
+q-fin,q-fin.EC,Economics,17
+q-fin,q-fin.EC,Single Economic Dynamic Model,14
+q-fin,q-fin.GN,Econophysics Crisis Prediction,13
+q-fin,q-fin.GN,Stock Market Integration Analysis,13
+q-fin,q-fin.GN,Equilibrium Density Agents,12
+q-fin,q-fin.GN,General Finance,12
+q-fin,q-fin.MF,Volatility Process Models,39
+q-fin,q-fin.MF,Mathematical Finance,11
+q-fin,q-fin.PM,Portfolio Market Return Model,22
+q-fin,q-fin.PM,Optimal Utility Portfolio Function,20
+q-fin,q-fin.PM,Portfolio Management,8
+q-fin,q-fin.PR,Volatility Options Implied,29
+q-fin,q-fin.PR,Credit Bond Recovery Model,15
+q-fin,q-fin.PR,Pricing of Securities,6
+q-fin,q-fin.RM,Portfolio Default Risk Model,39
+q-fin,q-fin.RM,Risk Management,11
+q-fin,q-fin.ST,Distribution Financial Market,46
+q-fin,q-fin.ST,Statistical Finance,4
+q-fin,q-fin.TR,Agent-Based Market Model,20
+q-fin,q-fin.TR,Optimal Tick Costs,15
+q-fin,q-fin.TR,Trading and Market Microstructure,15
+quant-ph,quant-ph,Measurements Retrodiction Particle,21
+quant-ph,quant-ph,Quantum Physics,15
+quant-ph,quant-ph,Quantum Mechanics Information Mechanics,14
+stat,stat.AP,Spatial Data Modeling Method,24
+stat,stat.AP,Expression Testing Problems,15
+stat,stat.AP,Applications,11
+stat,stat.CO,Algorithms Algorithm Sampling,47
+stat,stat.CO,Computation,3
+stat,stat.ME,Networks Network Problem,29
+stat,stat.ME,Methodology,21
+stat,stat.ML,Data-Driven Model Selection,42
+stat,stat.ML,Machine Learning,8
+stat,stat.OT,Bayesian Random Processes,28
+stat,stat.OT,Mathematical Statistical University,13
+stat,stat.OT,Other Statistics,9
+stat,stat.TH,Likelihood Estimator Parameter,18
+stat,stat.TH,Asymptotic Density Deconvolution,13
+stat,stat.TH,Angle Regression Model Discussion,12
+stat,stat.TH,Statistics Theory,7

@@ -1,396 +1,233 @@
-cluster_id,size,keywords,fine_topic_label
-0,5,"regression, reduction, dimension, principal, methodology",Principal Component Regression Dimension Reduction
-1,9,"design, model, information, process, constraints",Modeling Information Processes under Design Constraints
-2,11,"reversible, logic, computing, proposed, quantum",Quantum Reversible Logic Computing Proposal
-3,15,"symplectic, manifolds, cohomology, manifold, space",Symplectic Cohomology of Manifolds
-4,7,"simulations, proteins, model, time series, state",Protein State Modeling via Time Series Simulations
-5,19,"et, et al, al, angle, regression",Angle Regression Analysis
-6,12,"operator, bounded, operators, theory, point",Operator Boundaries in Point Theory
-7,5,"time series, series, time, perturbation, nonlinear",Nonlinear Time Series Perturbation
-8,7,"alpha, returns, exists, negative, fluctuations",Negative Alpha Fluctuations
-9,7,"pm, events, charged, delta, basis",Charged Particle Events on Delta Basis
-10,6,"images, grid, database, computer, tools",Image Grid Tools for Database Computing
-11,5,"cost, problem, optimization, network, minimum",Minimum Cost Network Optimization
-12,9,"magnetic, magnetic field, field, order, angle",Magnetic Order Angle Relationships
-13,5,"plasma, magnetic, magnetic field, field, particle",Magnetic Plasma Particle Interactions
-14,15,"volatility, process, models, prices, density",Volatility Process Models
-15,14,"control, laws, matrices, estimators, estimator",Matrix Estimators in Law Control Systems
-16,14,"polynomials, orthogonal, coefficients, asymptotic, points",Asymptotic Coefficients of Orthogonal Polynomials at Points
-17,7,"learning, algorithms, agents, models, networks",Learning Network Agents with Models
-18,6,"proteins, dynamics, stochastic, oscillations, model",Stochastic Protein Dynamics and Oscillations
-19,6,"gravitational, radiation, relativity, universe, general",General Relativity and Gravitational Radiation in the Universe
-20,10,"symplectic, hamiltonian, lie, action, space",Symplectic Hamiltonian Lie Actions in Space
-21,10,"hierarchy, polynomial, classes, query, sets",Polynomial Classification Queries
-22,10,"statistics, statistical, research, applied, period",Statistical Applied Research Periods
-23,10,"response, total, electron, solar, xray",Response Total Electron
-24,7,"representations, algebra, lie, group, operators",Lie Group Operator Representations
-25,7,"symplectic, hamiltonian, action, cohomology, closed",Symplectic Hamiltonian Cohomology Closed Systems
-26,8,"genetic, code, matrix, matrices, properties",Genetic Code Matrix Properties
-27,8,"grid, distributed, services, management, computing",Distributed Grid Services Management
-28,5,"length, poisson, manifolds, classes, groups",Poisson Manifolds Classification Groups
-29,13,"protein, proteins, poisson, operators, spectral",Spectral Protein Operators
-30,16,"dna, experimental, omega, proteins, model",Dna Experimental Omega
-31,9,"protein, structures, proteins, mode, potential",Protein Structures and Potential Modes
-32,7,"model, protein, experiments, interaction, external",Modeling Protein Interactions with External Factors
-33,6,"biological, pattern, protein, sequence, patterns",Protein Sequence Patterns
-34,21,"proteins, cell, model, field, process",Cellular Protein Process Modeling in Field Studies
-35,31,"cells, cell, model, growth, human",Human Cell Growth Model
-36,14,"sequences, human, dna, sequence, proteins","""Human DNA Sequences and Protein Analysis"""
-37,7,"networks, oscillations, model, signal, dynamics",Oscillation Dynamics in Network Signals
-38,8,"protein, recent, gene, mechanisms, development",Recent Gene Mechanisms in Protein Development
-39,18,"graphs, graph, finite, algorithm, class",Graph Class Algorithms for Finite Structures
-40,10,"networks, network, function, mechanisms, low",Low-function networks mechanisms
-41,20,"network, networks, models, dynamics, distribution",Network Dynamics Models
-42,11,"clusters, cluster, atoms, electronic, structures",Electronic Atom Clusters Structures
-43,5,"channel, method, modified, algorithm, spatial",Spatial Modified Channel Method
-44,7,"data, method, effects, agents, estimate",Data-driven agent effects estimation
-45,7,"optimization, field, beam, source, pm",Optimized Beam Source for Field PM Applications
-46,5,"resolution, small, spatial, spectrum, images",High-resolution spatial images in the spectral domain
-47,31,"model, network, noise, rate, networks",Network Noise Modeling Rates
-48,30,"model, biological, data, method, based",Biological Data Modeling Methods
-49,11,"parameters, water, species, sequence, class",Water Species Sequence Classification Parameters
-50,6,"frequencies, information, noise, correlation, selection",Frequency Selection for Noise Reduction
-51,10,"operators, period, equations, differential, long",Differential Equations Over Long Periods
-52,8,"rules, nonlinear, patterns, layer, fundamental",Nonlinear Patterns in Layered Systems
-53,13,"population, effect, model, biological, lead",Lead Effect on Biological Populations
-54,12,"model, maximum, models, population, network",Maximum Population Models for Networks
-55,59,"beam, radiation, parameters, equations, nonlinear",Nonlinear Beam Radiation Parameters
-56,10,"plasma, wave, equation, solution, complex",Complex Plasma Wave Solutions
-57,7,"data, models, methods, scalar, digital",Digital Scalar Models
-58,7,"solutions, analytic, estimates, equation, obtained",Analytic Solution Estimates
-59,15,"frequency, power, transfer, resonance, structure","""Power Resonance in Structural Frequency Transfer"""
-60,10,"time, scale, normal, pressure, wave",Time-scale pressure waves
-61,6,"equations, solutions, evolution, extension, formula",Equation Evolution Solutions
-62,7,"flow, energy, differential equations, economic, differential",Flow Energy Differential Economics
-63,10,"monte carlo, monte, carlo, methods, gamma",Gamma Monte Carlo Methods
-64,23,"light, nonlinear, optical, maximal, energy",Maximal Nonlinear Optical Energy
-65,11,"scattering, mode, noise, light, internal",Scattering Mode Noise
-66,6,"design, threshold, structures, series, band",Design of Threshold Structures in Series Band
-67,10,"automata, cellular, lambda, class, parameter",Cellular Automata Lambda Calculus Classification
-68,15,"detector, energy, light, high, resolution",High-Energy Light Detector Resolution
-69,20,"algorithm, methods, method, approach, calculation",Algorithm Analysis for Calculation Approaches
-70,14,"solar, laser, theory, cells, differences",Laser Differences in Solar Cell Technologies
-71,7,"field, laser, polarization, angular, states",Laser Polarization Angular States
-72,5,"uncertainty, relationship, optimization, performed, analytical",Uncertainty Relationship Optimization
-73,21,"method, probability, bayesian, information, results",Bayesian Information Methods
-74,12,"source, xray, energy, high, relative",High-energy X-ray source relative to...
-75,7,"effects, current, risk, analysis, spectral",Spectral Risk Analysis of Current Effects
-76,9,"method, algorithm, equations, numerical, technique",Numerical Algorithm Techniques
-77,5,"estimator, estimators, asymptotic, kernel, random",Kernel-based Asymptotic Estimators
-78,13,"estimator, estimators, likelihood, regression, model",Likelihood-Based Estimators in Regression Models
-79,16,"molecules, motion, states, model, bound",Molecular Bound States Motion Model
-80,5,"critical, theory, classes, classification, points",Critical Classification Points
-81,13,"complexity, short, omega, random, real",Real-world Complexity Analysis
-82,9,"cluster, laser, clusters, electron, atomic",Laser-Induced Atomic Clustering
-83,41,"events, results, high, paper, theory",High Event Results in Theory Paper
-84,11,"density, method, grid, equations, calculation",Grid-based density calculation method
-85,21,"distribution, data, probability, method, parameter",Data Distribution Methods
-86,9,"water, molecular, number, method, model",Molecular Number Modeling Method
-87,11,"motion, classical, charged, charge, velocity",Charged Particle Velocity
-88,11,"particle, classical, wave, motion, general",General Wave Motion of Particles
-89,11,"definition, discuss, charge, mechanics, science",Charge Mechanics in Science
-90,12,"state, atomic, order, decay, atoms",Atomic Order Decay in States
-91,5,"transition, curve, optical, design, method",Optical Transition Design Method
-92,13,"force, propagation, particle, model, order",Particle Model Propagation Order
-93,5,"classical, particle, field, integral, radiation",Classical Particle Field Radiation
-94,7,"matrices, method, algorithm, correlations, em",Matrix Method for EM Algorithm Correlations
-95,14,"equations, solutions, relativity, mass, gravitational",Gravitational Mass Solutions in Relativity
-96,6,"default, asset, time, value, process",Default Asset Pricing Process
-97,7,"clusters, magnetic, experiments, experimental, absorption",Magnetic Cluster Absorption Experiments
-98,12,"clusters, temperature, calculated, cluster, energy",Temperature-based Cluster Energy Calculation
-99,13,"water, state, energy, free, transfer",Free Energy Transfer in Water States
-100,10,"spectrum, accuracy, model, hamiltonian, functions",Spectrum Accuracy Modeling Functions
-101,6,"variance, estimator, smooth, function, functional",Smooth Variance Estimator Functional
-102,6,"negative, elements, proposed, important, using",Negative Elements Proposed
-103,7,"wave, frequency, waves, liquid, mode",Wave Modes in Liquids
-104,5,"layer, high, idea, alternative, connection",Alternative High-Layer Connection Ideas
-105,8,"boundary, layer, equations, control, liquid",Boundary Layer Control Equations
-106,17,"surface, fluid, equation, velocity, flows",Fluid Surface Velocity Equations
-107,17,"atomic, wave, atoms, state, results",Atomic Wave Atoms
-108,5,"produced, state, regime, gaussian, atoms",Gaussian Atom Regime Production
-109,14,"estimator, model, linear, selection, regression",Linear Model Selection for Estimators
-110,12,"sequence, spectral, fixed, geometric, map",Spectral Geometric Mapping of Sequences
-111,18,"lambda, physics, mechanics, nuclear, performance",Lambda Nuclear Mechanics Performance
-112,38,"water, noise, networks, distribution, model",Water Noise Networks Distribution Model
-113,6,"used, range, potentials, model, conditional","""Conditional Potential Model Ranges"""
-114,23,"temperature, mean, likelihood, model, probabilistic",Temperature Mean Likelihood
-115,7,"estimator, model, bound, linear, critical",Critical Linear Model Estimator Bounds
-116,42,"cohomology, spaces, space, related, theorem",Related Spaces Cohomology Theorem
-117,9,"stable, certain, space, formula, explicit",Explicit Space Formula
-118,21,"layer, using, frequency, waves, variations",Layer variations using frequency waves
-119,20,"equations, quantum, equation, transformations, systems",Equations Quantum Equation
-120,14,"operator, equation, gamma, curves, space",Gamma Curves in Operator Space
-121,8,"length, fluid, numbers, time, evolution",Fluid Evolution over Time
-122,6,"quantum, higher, stationary, matter, particle",Quantum Higher Stationary Matter Particles
-123,16,"physical, spaces, universe, matter, geometry",Physics of Cosmic Spaces
-124,5,"plasma, existence, electric, nonlinear, function",Nonlinear Electric Plasma Function
-125,17,"solar, wind, stable, magnetic, body",Stable Solar Magnetic Body Wind Energy
-126,19,"plasma, equation, field, wave, electrons",Plasma Equation Field
-127,15,"times, universe, physics, theory, discussed",Universe Expansion Theory Discussion
-128,7,"motion, physics, speed, body, line",Motion Analysis in Physics
-129,9,"review, limit, current, used, open",Open Current Limit Review
-130,7,"make, growth, variations, paper, signal",Signal variations in paper growth
-131,5,"cross, section, momentum, measured, detected",Momentum Detection at Cross Sections
-132,8,"estimation, estimators, noise, distribution, suggests",Noise in Estimation Distributions
-133,19,"statistical, test, paper, probabilities, bayesian",Bayesian Probability Testing
-134,12,"ring, let, functions, polynomial, characteristic",Polynomial Characteristic Rings
-135,6,"ring, action, finite, conjecture, type",Ring Conjecture Types
-136,9,"bayesian, data, theory, problem, models",Bayesian Data Modeling Problems
-137,6,"distributions, research, symmetric, unit, data",Distributions Research Symmetric
-138,16,"methodology, data, model, modeling, significant",Predictive Modeling Methodology
-139,5,"estimation, applications, ratio, game, conditional",Conditional Ratio Estimation in Game Applications
-140,5,"species, neutral, models, noise, strategy",Species Neutral Models
-141,12,"plane, mapping, lie, smooth, algebraic",Smooth Algebraic Plane Mappings
-142,5,"nuclear, amplitude, scattering, omega, chemical",Chemical Nuclear Omega Scattering
-143,7,"genes, gene, expression, conditions, regions",Gene Expression Conditions in Specific Regions
-144,11,"gene, expression, genes, regulatory, protein",Gene Regulation and Protein Expression
-145,6,"model, procedure, population, test, analysis",Modeling Population Test Analysis
-146,7,"dark, energy, matter, constraints, early",Early Dark Matter Constraints
-147,10,"human, shape, model, parameter, rate",Shape Model Parameter Rate
-148,13,"transport, data, estimation, based, use",Data-based Transport Estimation
-149,5,"statistics, lead, rule, market, samples",Lead Market Samples Statistics Rule
-150,28,"algorithm, data, matter, sampling, estimators",Data Sampling Algorithm Estimators
-151,16,"galaxies, stellar, mass, galaxy, evolution",Galaxy Mass Evolution
-152,10,"sequences, integer, polynomial, using, problems",Polynomial Sequence Problems
-153,7,"dna, sequences, software, distance, corresponding",Software for DNA Sequence Distance Calculation
-154,8,"galaxies, ring, evolution, power, correlation",Galaxy Ring Evolution and Power Correlation
-155,15,"cell, model, cells, growth, elements",Cell Growth Elements Model
-156,10,"gravitational, universe, galaxy, models, cosmic",Cosmic Galaxy Models
-157,8,"emission, observations, temperature, absorption, scalar",Scalar Temperature Absorption Observations
-158,5,"star, stellar, performance, trees, parameters",Star Performance Trees Parameters
-159,12,"xray, energy, long, spectra, wind",Long-Energy X-ray Wind Spectra
-160,15,"estimators, model, body, better, number",Improving Model Estimators in Body Count Prediction
-161,7,"models, feature, data, features, kernel",Feature Selection for Data Kernel Models
-162,8,"sampling, coupled, algorithm, distributions, methods",Coupled Algorithm for Distributions Sampling Methods
-163,10,"variables, algorithm, number, variable, linear",Variables Algorithm Number
-164,11,"learning, algorithm, distributed, search, use",Distributed Learning Algorithm for Search Applications
-165,22,"sampling, models, model, using, approximate",Approximate Sampling Models
-166,7,"nuclear, lambda, reaction, signal, calculation",Nuclear Lambda Reaction
-167,27,"lattice, simulations, mass, dynamical, monte",Monte Carlo Lattice Simulations for Dynamical Mass
-168,5,"patterns, emission, surface, particles, observations",Surface Particle Emission Patterns Observations
-169,9,"risk, agents, measures, price, asset",Risk Management Measures for Asset Agents
-170,10,"data, survey, thermal, planets, size",Thermal Size of Planets from Surveys
-171,6,"planets, cosmic, stellar, radius, observations",Cosmic Observations of Planetary Radii
-172,17,"star, stars, observations, formation, intermediate",Intermediate Star Formation Observations
-173,10,"galaxy, neutral, observations, galaxies, gas",Galaxy Gas Observations
-174,9,"scale, magnetic, value, spin, model",Magnetic Spin Model Scaling
-175,5,"gas, star, lines, zero, model",Star gas lines zero model
-176,6,"algorithm, new, algorithms, complexity, methods",New Complexity Methods for Algorithms
-177,8,"parallel, spectrum, implementation, provide, use",Parallel Spectrum Implementation
-178,17,"data, magnetic, line, lines, images",Magnetic Line Images in Data Analysis
-179,8,"stars, mass, classification, lambda, data",Classification of Stars by Mass Data
-180,7,"procedure, parameter, random, convex, true",Random convex optimization procedure
-181,11,"estimator, asymptotic, operators, spectral, variables",Spectral Estimator Asymptotics
-182,6,"authors, paper, changes, appear, mechanics",Mechanics of Paper Changes by Authors
-183,9,"paper, language, form, model, algorithm",Paper Language Form
-184,7,"polarization, solar, observations, linear, waves",Linear polarization of solar waves in observations
-185,5,"stars, polarization, emission, cluster, binary",Stellar Polarization in Binary Clusters
-186,8,"emission, xray, wind, region, spectral","X-ray emission in wind regions, spectral analysis."
-187,12,"xray, emission, region, data, stars",X-ray Emission Regions in Stars
-188,7,"formulas, default, risk, volatility, models",Risk Model Analysis for Volatility Formulas
-189,11,"planets, detection, formation, radial, mass",Radial mass detection in planet formation
-190,12,"activity, source, description, current, sources",Activity Source Description
-191,7,"digital, information, object, objects, years",Digital Information Objects Over Years
-192,6,"services, content, search, digital, interface",Digital Interface Services for Content Search
-193,9,"maps, map, distinct, conditions, bounded",Bounded Mapping Conditions
-194,6,"algorithm, learning, problem, generalization, temporal",Generalization of Temporal Learning Algorithms
-195,8,"data, search, logic, evaluation, quantum",Quantum Data Search Logic
-196,5,"rings, proved, connection, principal, let",Principal Connection in Rings
-197,12,"market, high, equations, based, dynamics",High Market Dynamics Equations
-198,12,"channel, capacity, weight, unit, complexity",Weighted Complexity of Communication Channels
-199,13,"languages, language, regular, complexity, version",Regular Language Complexity in Different Versions
-200,6,"stock, price, risk, proposed, market",Stock Price Risk Proposals in the Market
-201,7,"design, reduction, digital, models, communication",Digital Model Design for Efficient Communication
-202,12,"proposed, core, paper, describes, major",Core Proposed Architecture
-203,9,"financial, market, negative, markets, model",Negative Market Impact on Financial Models
-204,12,"given, sum, proof, polynomials, em",Polynomial Sum Proofs
-205,10,"metric, manifold, complex, finite, space",Complex Finite Metric Spaces
-206,9,"waves, solutions, stability, stationary, patterns",Stationary Wave Solutions Stability
-207,12,"spatial, waves, patterns, pattern, dynamics",Spatial Waves Patterns
-208,22,"sets, polynomial, class, problem, set",Polynomial Classification Problems
-209,10,"word, gamma, bound, languages, rule",Gamma Bounds in Language Rules
-210,12,"distortion, radial, information, model, accuracy",Radial Distortion Information Model Accuracy
-211,6,"economic, stock, models, time, behavior",Stock Market Behavior Models Over Time
-212,13,"proof, cohomology, theorem, algebras, lie",Lie Algebra Cohomology Proofs
-213,10,"spaces, physics, relationship, theoretical, article",Theoretical Space Physics Relationships
-214,5,"cohomology, algebras, analytic, processing, algebra",Analytic Cohomology Algebras Processing
-215,47,"algebra, algebras, lie, quantum, cohomology",Quantum Lie Algebra Cohomology
-216,5,"matrix, exponential, algebras, bound, orthogonal",Orthogonal Exponential Matrix Bounds
-217,15,"market, price, impact, stock, markets",Market Impact on Stock Prices
-218,6,"options, market, economic, option, growth",Option Market Growth
-219,6,"optical, systems, logic, chemical, technology",Optical Logic Systems Technology
-220,6,"pricing, portfolio, risk, market, optimal",Optimal Portfolio Pricing Risk
-221,8,"lattice, wind, scale, nonlinear, generation",Lattice-based Nonlinear Wind Generation Scales
-222,10,"prices, problem, rate, process, model",Price-based Process Model for Addressing Rates in Problems
-223,29,"options, market, price, option, pricing",Option Pricing in Financial Markets
-224,23,"automata, finite, transition, critical, random",Critical Transitions in Finite Automata
-225,17,"current, transmission, scattering, flux, oscillations",Current Oscillations in Transmission Scattering
-226,12,"world, wind, effects, considered, times",Wind Effects Over Time
-227,5,"state, process, time, market, equation",Market Equation Evolution
-228,6,"systems, information, sets, social, decay",Social Information Decay in Systems
-229,7,"signal, chemical, computing, technology, tensor",Chemical Signal Computing Technology
-230,14,"particles, vacuum, speed, critical, matter",Critical Speed of Particles in Vacuum
-231,6,"stock, transfer, performance, fraction, price",Stock Transfer Fraction and Performance
-232,9,"portfolio, return, returns, volatility, target",Target Volatility Portfolios
-233,15,"states, automata, language, numbers, complexity",Automata and Language Complexity
-234,7,"automata, cellular, universal, hierarchy, classification",Cellular Universal Automata Hierarchy Classification
-235,18,"energy, formation, different, calculations, energies",Different Energy Formation Calculations
-236,12,"spin, field, phase, free, distribution",Free Spin Distribution in Magnetic Phases
-237,6,"modes, ground, relevant, spectrum, physical",Ground Modes in Physical Spectrum
-238,19,"languages, automata, algebraic, systems, regular",Languages Automata Algebraic
-239,12,"model, energy, growth, using, surface",Surface Energy Model for Growth Analysis
-240,15,"stock, trading, distribution, time, volatility",Stock Distribution Over Time and Volatility
-241,5,"utility, time, function, value, setting",Utility of Time-Based Function Settings
-242,13,"energy, trading, reaction, models, coupling",Energy Trading Models Coupling Reactions
-243,8,"electron, solution, quantum, cases, shown",Quantum Electron Cases Shown in Solution
-244,11,"distribution, energy, signal, distributions, reported",Energy Distributions in Signals
-245,14,"problem, integer, time, services, results",Problem Integer Time
-246,11,"power, networks, order, effects, determine",Power effects in network order
-247,5,"surface, intensity, step, respectively, content",Surface Intensity Steps in Content Analysis
-248,8,"band, interface, formation, quantum, partial",Quantum Partial Band Interface Formation
-249,8,"tree, group, algebras, direct, graph",Direct Graph Algebras on Trees
-250,40,"risk, model, default, market, loss",Market Risk Models
-251,6,"quantum, fluctuations, potentials, transition, electron",Quantum Electron Transition Potentials
-252,10,"quantum, energy, interaction, electrons, charge",Quantum Energy Interaction with Electrons
-253,31,"spin, interaction, temperature, scattering, correlations",Spin-Interaction Temperature Scattering Correlations
-254,5,"market, size, price, trading, prices",Market Trading Prices
-255,13,"market, trading, pricing, returns, information",Information-Based Trading Strategies
-256,11,"dynamical, cellular, systems, rule, entropy",Cellular Dynamical Systems Rules and Entropy
-257,5,"pressure, time series, time, series, properties",Time Series Pressure Properties
-258,12,"market, trading, model, price, stochastic",Stochastic Price Modeling in Trading Markets
-259,7,"markets, financial, risk, internal, integration",Financial Risk Integration in Markets
-260,5,"economic, research, parameter, price, formulas",Economic Research Parameter
-261,24,"market, financial, time, portfolio, time series",Time-series financial portfolio analysis
-262,8,"model, distribution, network, laws, time",Time-Dependent Network Models
-263,23,"dynamics, distribution, phase, model, networks",Dynamics of Network Phases
-264,5,"transformations, representation, solutions, equations, initial",Initial Transformation Representations
-265,5,"discrete, flows, equation, periodic, construct",Periodic Discrete Flow Equations
-266,5,"matching, distribution, estimator, observed, channels",Distribution Matching Estimators for Observed Channels
-267,24,"spin, coupling, gap, model, phase",Spin-Coupling Gap Model Phases
-268,5,"test, based, economic, asymptotic, typical",Economic Asymptotic Typical Testing
-269,8,"atoms, image, magnetic field, quantum, levels",Quantum Levels in Magnetic Field Images
-270,7,"omega, electronic, section, future, characterization",Future Electronic Characterization of Omega Devices
-271,20,"tool, results, development, particles, numerical",Particle Development Tool Results
-272,44,"groups, group, hyperbolic, finitely, free",Free Hyperbolic Groups
-273,5,"representation, coupled, functions, method, periodic",Periodic Coupled Functions Representation
-274,15,"scalar, maps, invariant, resonance, scaling",Scaling Invariant Resonance Maps
-275,34,"temperature, state, effect, magnetic, transition",Magnetic Transition Effects on State Temperature
-276,15,"economic, effects, data, propose, policy",Economic Policy Effects on Data
-277,15,"conjecture, program, density, space, curves",Space Curve Program Density
-278,12,"signal, equilibrium, social, information, binary",Social Equilibrium Signals
-279,12,"agents, mechanisms, choice, knowledge, simple",Mechanisms of Simple Agent Choices
-280,6,"size, reaction, mean, behaviour, dynamics",Size-dependent reaction dynamics
-281,17,"phase, critical, model, transition, magnetic",Magnetic Phase Transition Modeling
-282,6,"set, universal, dimensional, exists, introduced",Universal Dimensional Set Introduction
-283,6,"cellular, mapping, behavior, flow, algorithm",Cellular Behavior Mapping Algorithm
-284,15,"theories, systems, initial, time, lattice",Lattice Initial Time Theories
-285,11,"model, cost, power, different, states",Cost-effective power models for different states
-286,6,"mode, experimentally, theory, noise, measurements",Noise in Mode Measurements
-287,9,"agents, pricing, fixed, prices, price",Pricing Agents and Fixed Prices
-288,7,"levels, current, article, management, world",Global Climate Management Levels
-289,5,"propagation, ground, expansion, state, atomic",Atomic Ground State Expansion
-290,6,"estimator, function, estimators, distribution, studied",Estimator functions studied
-291,8,"process, social, furthermore, study, hand",Process Social Furthermore
-292,23,"treatment, effects, field, theory, dimensions",Field Theory Dimensions Effects Treatment
-293,9,"limit, optical, network, resonance, atomic",Optical Atomic Network Resonance
-294,20,"atoms, states, scattering, state, molecular",Atomic Scattering States
-295,21,"theory, model, gravity, point, lattice",Lattice Point Gravity Theory
-296,11,"theory, quantum, model, relativity, space",Quantum Space Model
-297,16,"decay, charged, detector, measured, neutral",Charged Particle Decay Measurement
-298,8,"density, interaction, state, phase, relative",Phase Transition Density Interactions
-299,9,"atoms, frequencies, potentials, states, atomic",Atomic Frequency States Potentials
-300,10,"space, spaces, constructed, equivalent, basis",Constructed Equivalent Spaces Basis
-301,9,"fluid, dimensions, phase, surface, motion",Surface Motion of Fluid Phases
-302,19,"surface, models, critical, behaviour, model",Surface Models Critical
-303,6,"phase, transition, density, response, models",Phase Transition Density Response Models
-304,18,"critical, phase, model, fluid, length",Critical Phase Model for Fluid Length
-305,6,"optical, onedimensional, spectral, parameter, order",Optical Onedimensional Spectral
-306,18,"category, symmetric, construction, spectra, definition",Symmetric Spectra Construction
-307,47,"representations, group, lie, algebra, theory",Group Lie Algebra Representations Theory
-308,5,"phase, values, coupled, parameters, atoms",Coupled Atomic Phases and Values
-309,15,"lattice, phase, fluctuations, surface, regime",Surface Phase Fluctuations Regime
-310,8,"operator, certain, spectrum, domain, theorem",Operator Domain Theorem
-311,5,"convex, distribution, line, lie, points",Line distribution of points on a convex shape
-312,8,"network, networks, complex, behavior, model",Network Complexity Behavior Modeling
-313,15,"theorem, spectrum, algebra, complete, inverse",Inverse Algebraic Spectra Completion
-314,14,"scattering, method, presented, search, quantum",Quantum Scattering Methods Search
-315,5,"operators, space, potentials, decomposition, potential",Decomposition of Potentials in Space Operators
-316,7,"spectral, function, operators, surfaces, pair",Spectral Function Operators
-317,36,"model, method, carlo, numerical, paper",Carlo Numerical Model Paper
-318,8,"solutions, quantum, scalar, time, gravity",Quantum Scalar Time Gravity Solutions
-319,11,"review, equations, gravity, quantum, relativity",Review Equations Gravity
-320,8,"numerical, equation, pricing, free, option",Pricing Free Options Equation
-321,11,"method, integral, equation, optimal, model",Optimal Integral Modeling Method
-322,7,"states, equation, distribution, field, environment",Environmental Field Distributions
-323,5,"separation, topological, properties, aim, higher",Higher Topological Separation Properties
-324,12,"production, mass, events, solutions, waves",Wave-based Mass Production Solutions
-325,9,"production, theory, invariant, constraints, effective",Invariant Constraints in Production Theory
-326,17,"quantum, theory, mechanics, interpretation, physical",Quantum Physical Interpretation
-327,13,"quantum, information, states, mechanics, shown",Quantum Information States Shown in Mechanics
-328,15,"polynomials, theorem, algebra, functions, proof",Polynomial Function Proofs in Algebraic Theorem Development
-329,9,"formula, channel, lambda, equations, classical",Classical Channel Equations
-330,5,"numbers, metric, function, solutions, type","""Functional Solutions for Metric Systems"""
-331,17,"physics, quantum, mechanics, classical, article",Quantum Classical Mechanics Interface
-332,5,"plane, decomposition, sets, section, short",Plane Set Decomposition
-333,7,"algorithm, sets, problems, characterize, space",Space Complexity Characterization of Algorithms for Set Problems
-334,10,"complexity, unit, set, data, points",Data Complexity in Unit Sets of Points
-335,18,"channel, boundary, scheme, solution, problems",Channel Boundary Scheme Solutions for Problems
-336,66,"theorem, forms, fields, nonlinear, paper",Nonlinear Field Forms
-337,19,"algebra, algebras, quantum, lie, differential",Quantum Lie Algebras Differential Operators
-338,19,"finite, proof, density, algebras, example","""Finite Algebra Density Examples"""
-339,21,"exists, existence, method, map, examples",Mapping Existence Methods
-340,15,"available, transformations, weak, symmetric, extended",Symmetric Weak Transformations
-341,12,"motion, process, domain, bounded, symmetric",Motion Symmetry in Process Domains
-342,5,"tree, closed, shape, needed, case",Tree Closed Shape Needed Case Study
-343,6,"case, rings, true, control, action",Ring Action in True Control Cases
-344,8,"locally, compact, certain, group, algebra",Locally Compact Groups in Algebra
-345,6,"rings, special, local, necessary, flows",Local Special Flows in Rings
-346,12,"symmetric, graphs, rational, graph, series",Symmetric Graph Series
-347,5,"line, algorithm, times, sets, convex",Convex Line Algorithm Times
-348,39,"programs, approach, language, present, paper",Programs Approach Language
-349,44,"image, policy, internet, regulatory, paper",Internet Image Policy Regulation
-350,10,"support, motion, random, probability, exponent",Support for Random Motion with Exponential Probability
-351,10,"space, stochastic, measures, metric, process",Stochastic Space Metrics Process
-352,18,"ring, bounds, ideal, study, algebra",Ideal Ring Bounds Study in Algebra
-353,8,"minimal, ideal, free, resolution, theorem",Minimal Ideal Free
-354,7,"problem, algorithm, probabilistic, chain, probability",Probabilistic Chain Algorithm for Problems
-355,12,"memory, constraints, tool, long, mapping",Long-term Memory Mapping Tool
-356,11,"group, groups, equilibrium, symmetric, generalized",Symmetric Group Equilibrium
-357,12,"product, sites, probability, graph, group",Graph-based product recommendation for group sites
-358,16,"images, image, transform, based, method",Image Transform Methods
-359,7,"schemes, problem, based, propose, properties",Property Proposals for Problem-Based Schemes
-360,5,"ways, object, describes, convex, network",Convex Object Network Descriptions
-361,9,"transformations, algorithm, transform, matching, images",Image Matching Algorithms
-362,7,"game, case, product, maps, property",Game Property Mapping in Product Cases
-363,14,"analytic, manifold, differential, classes, topology",Differential Geometry Classes on Manifolds
-364,5,"query, data, language, evaluation, addition",Query Data Language
-365,7,"domain, principle, ideal, analytic, finitely",Finitely Analytic Domain Ideals
-366,19,"manifolds, analytic, smooth, domain, complex",Complex Manifolds Analysis
-367,6,"complexity, algorithm, problem, graphs, maximum",Complexity Algorithm Problem
-368,29,"mathematical, new, power, paper, scheme",Power Scheme for New Mathematical Paper
-369,15,"numbers, notion, conjecture, simple, pairs","""Simple Pair Notions in Number Theory"""
-370,5,"problems, linear, algorithms, algorithm, numbers",Linear Algorithm Problems with Numbers
-371,9,"curvature, surfaces, surface, embedded, minimal",Minimal Surface Curvature Embedding
-372,6,"major, body, theoretical, original, communication",Major Body Theoretical
-373,21,"internet, search, regulatory, data, access","""Regulatory Data Access on the Internet Search"""
-374,12,"algorithm, problem, input, time, search",Search Algorithm Efficiency for Time-Constrained Problems
-375,19,"maps, smooth, decomposition, dimension, classes",Smooth Dimensional Map Decomposition Classes
-376,6,"channels, capacity, schemes, gaussian, estimation",Gaussian Channel Capacity Estimation Schemes
-377,9,"maps, distortion, set, prove, index",Mapping Distortion in Sets
-378,18,"space, spaces, construct, measure, formula",Space construction measurement
-379,9,"query, constraints, data, database, programs",Query Optimization in Databases with Programming Constraints
-380,11,"spaces, space, compact, topological, weight",Compact Weighted Spaces
-381,14,"manifolds, closed, manifold, program, surfaces",Manifolds Closed Manifold
-382,7,"database, data, requirements, information, paper",Data Requirements for Scientific Database Papers
-383,14,"information, data, database, distributed, management",Distributed Data Management Systems
-384,5,"essential, manifold, delta, surface, contains",Essential Manifold Surface Contains Delta
-385,18,"problem, graph, graphs, maximum, time",Maximum Time Graph Problem
-386,5,"software, computing, framework, services, information",Software Framework for Computing Services
-387,5,"group, respect, alternative, elements, reduced",Reduced Group Elements Alternatives
-388,6,"communication, objects, grid, regular, presented",Regular Grid Object Communication
-389,17,"implementation, digital, performance, use, paper",Digital Paper Implementation and Performance
-390,9,"constraints, graph, algorithm, case, graphs",Graph Algorithm Constraints
-391,29,"information, digital, data, electronic, paper",Digital Information Management
-392,8,"group, groups, gamma, partial, structure",Partial Gamma Structure of Groups
-393,7,"group, cohomology, finite, extension, illustrate",Finite Group Extensions Illustrated with Cohomology
-394,5,"finitely, groups, presented, numbers, products",Finitely Presented Group Products
+cluster_id,category,subcategory,size,keywords,fine_topic_label
+0,astro-ph,astro-ph.CO,19,"galaxies, galaxy, formation, mass, evolution",Galaxy Mass Evolution
+1,astro-ph,astro-ph.CO,29,"dark, energy, dark energy, neutrino, cosmological",Dark Energy Neutrino Interaction
+2,astro-ph,astro-ph.EP,29,"dust, polarization, data, solar, comets",Polarization Comets Solar
+3,astro-ph,astro-ph.EP,12,"planets, planet, eclipse, secondary, secondary eclipse",Secondary Planetary Eclipses
+4,astro-ph,astro-ph.GA,31,"galaxies, magnetic, field, stars, mass",Magnetic Star Mass Interaction
+5,astro-ph,astro-ph.GA,12,"emission, ionized, diffuse, halpha, cloud",Emission Ionized Diffuse
+6,astro-ph,astro-ph.HE,16,"xray, radio, emission, optical, spectra",Radio-Optical Spectra Analysis
+7,astro-ph,astro-ph.HE,25,"gammaray, grbs, emission, grb, tev",Gammaray Grb Emission
+8,astro-ph,astro-ph.IM,33,"data, astronomy, images, new, background",Background Astronomy Images
+9,astro-ph,astro-ph.IM,10,"polarization, mission, solar, astronomical, excellent",Polarization Astronomical Excellent
+10,astro-ph,astro-ph.SR,13,"coronal, loops, outflow, region, model",Coronal Loop Outflow Model
+11,astro-ph,astro-ph.SR,32,"stars, magnetic, data, cluster, field",Magnetic Fields In Star Clusters
+12,cond-mat,cond-mat.dis-nn,12,"replica, random, replica symmetry, transition, phase",Replica Symmetry Transition Replica
+13,cond-mat,cond-mat.dis-nn,33,"model, study, field, aging, spin",Aging Spin Model Field Study
+14,cond-mat,cond-mat.mes-hall,7,"formula, conductance, solution, wire, double",Double Wire Conductance Formula Solution
+15,cond-mat,cond-mat.mes-hall,7,"rings, persistent currents, persistent, currents, time",Persistent Currents Persistent Currents
+16,cond-mat,cond-mat.mes-hall,9,"conductance, transition, quantum, hall, quantum hall",Quantum Hall Transition Conductance
+17,cond-mat,cond-mat.mes-hall,6,"quantum hall, hall, states, fractional, state",Fractional Quantum Hall States
+18,cond-mat,cond-mat.mes-hall,6,"wave, calculated, wavepacket, persistent current, generalized",Persistent Current Generalized Calculated
+19,cond-mat,cond-mat.mes-hall,7,"states, energy, density states, density, landau",Density States Density States
+20,cond-mat,cond-mat.mtrl-sci,29,"calculations, method, energy, ev, theory",Ev Materials Energy Calculation Method
+21,cond-mat,cond-mat.mtrl-sci,10,"model, crack, simulations, velocity, material",Crack Velocity Model Simulations
+22,cond-mat,cond-mat.other,33,"atoms, resonance, condensate, spin, model",Condensate Resonance Atoms
+23,cond-mat,cond-mat.quant-gas,25,"trap, interaction, condensates, atoms, optical",Interaction Condensates Optical
+24,cond-mat,cond-mat.quant-gas,10,"phase, transition, superfluid, disorder, phase transition",Superfluid Phase Transition In Disordered
+25,cond-mat,cond-mat.soft,45,"phase, model, surface, critical, results",Critical Surface Phase Model
+26,cond-mat,cond-mat.stat-mech,11,"models, matrix, interaction, states, ground",Interaction Models Matrix
+27,cond-mat,cond-mat.stat-mech,24,"phase, transition, model, reaction, critical",Critical Phase Transition Modeling
+28,cond-mat,cond-mat.stat-mech,14,"surface, critical, anisotropic, dimensions, scale",Critical Anisotropic Surface Scaling
+29,cond-mat,cond-mat.str-el,12,"correlations, transition, theory, ladders, effective",Correlations Transition Effective
+30,cond-mat,cond-mat.str-el,10,"fermi surface, surface, fermi, coupling, states",Fermi Surface Coupling Surface
+31,cond-mat,cond-mat.supr-con,19,"flux, vortex, states, shown, interaction",Flux Vortex Interaction States
+32,cs,cs.AI,17,"search, data, algorithm, decision, function",Search Algorithm Decision Function
+33,cs,cs.AI,23,"learning, information, programs, theory, models",Information Learning Programs
+34,cs,cs.AR,19,"reversible, gate, proposed, circuits, power",Reversible Proposed Circuits
+35,cs,cs.AR,21,"memory, data, applications, hardware, reconfigurable",Reconfigurable Data Memory Applications
+36,cs,cs.CC,12,"problem, problems, instances, solvable, winner",Solvable Problem Instances
+37,cs,cs.CC,35,"hierarchy, sets, order, set, language",Hierarchy Language Order
+38,cs,cs.CE,13,"agent, exchange, server, present, numerical",Agent-Based Exchange Server Design
+39,cs,cs.CE,24,"model, market, data, prices, results",Market Price Data Modeling
+40,cs,cs.CG,18,"computational, mesh, geometry, problems, results",Computational Geometry Problems
+41,cs,cs.CG,26,"algorithm, log, points, present, paper",Algorithm Present Points
+42,cs,cs.CL,22,"data, annotation, corpus, tagger, lexical",Lexical Data Annotation Tagger
+43,cs,cs.CL,16,"grammar, processing, language, rules, speech",Speech Grammar Processing Rules
+44,cs,cs.CR,15,"analysis, algorithm, network, protocol, systems",Algorithm Analysis Protocol
+45,cs,cs.CR,25,"cipher, group, groups, scheme, homomorphic",Homomorphic Cipher Groups
+46,cs,cs.CV,30,"image, method, images, algorithm, based",Image-Based Algorithm Development
+47,cs,cs.CY,46,"internet, paper, regulatory, use, policy",Internet Paper Regulatory Policy
+48,cs,cs.DB,22,"data, database, management, model, information",Information Management Database
+49,cs,cs.DB,24,"query, queries, xml, language, database",Language Database Queries
+50,cs,cs.DC,27,"algorithm, parallel, control, number, registers",Parallel Algorithm Register Control
+51,cs,cs.DC,18,"grid, resources, resource, scheduling, data",Grid Data Scheduling
+52,cs,cs.DL,17,"digital, library, digital library, nsdl, information",Digital Library Information Digital
+53,cs,cs.DL,31,"data, documents, information, eprint, paper",Eprint Data Mining
+54,cs,cs.DM,41,"graphs, graph, paper, authors, problem",Graph Author Problem Analysis
+55,cs,cs.DS,16,"structure, analysis, smoothed, input, data structure",Data Structure Structure Analysis
+56,cs,cs.DS,25,"problem, problems, algorithms, algorithm, set",Set Problem Algorithms
+57,cs,cs.ET,35,"data, logic, dna, reversible, technology",Dna-Based Reversible Logic
+58,cs,cs.FL,15,"systems, grammars, language, generated, consider",Generated Grammars Language
+59,cs,cs.FL,13,"automata, languages, pushdown, conjecture, proof",Pushdown Automata Conjecture Proof
+60,cs,cs.FL,18,"regular, automata, algorithm, languages, state",Regular Automata Algorithm
+61,econ,econ.EM,11,"effects, treatment, treatment effects, average, unobserved",Treatment Effects Unobserved Treatment
+62,econ,econ.EM,29,"data, economic, distribution, pricing, based",Distribution Economic Pricing
+63,econ,econ.GN,10,"world, culture, article, current, cultural",World Cultural Economic Analysis
+64,econ,econ.GN,29,"model, group, new, economic, complexity",New Group Economic Model Complexity
+65,econ,econ.TH,10,"cost, energy, point, information, costs",Information Energy Point
+66,econ,econ.TH,30,"agents, beliefs, model, results, agent",Agent Belief Models
+67,gr-qc,gr-qc,12,"theory, equivalence, identical, gravity, gauge",Equivalence Of Gravity Gauges
+68,gr-qc,gr-qc,22,"field, quantum, mass, hole, black hole",Black Hole Quantum Field
+69,hep-ex,hep-ex,14,"asymmetry, scattering, polarization, polarized, various",Polarization Scattering Asymmetry
+70,hep-ex,hep-ex,22,"quark, cross, production, jets, presented",Quark Jet Cross Production
+71,hep-ex,hep-ex,10,"pm, pi, charged, neutral, ratio",Pi - Ratio In P-P
+72,hep-lat,hep-lat,24,"algorithm, critical, ising, monte carlo, carlo",Monte Carlo Algorithm Critical
+73,hep-lat,hep-lat,24,"lattice, quark, mass, fermions, chiral",Chiral Fermion Mass Simulation
+74,hep-ph,hep-ph,6,"loop, theory, calculation, field, use",Loop Quantum Field Calculation
+75,hep-ph,hep-ph,21,"models, model, new, higgs, electroweak",Electroweak Models Model
+76,hep-th,hep-th,13,"field, formalism, fermions, conformal, field theory",Conformal Field Theory Fermions
+77,hep-th,hep-th,22,"quantum, theory, model, states, space",Quantum Spatial State Models
+78,math,math.AC,11,"ideals, minimal, ideal, free, resolution",Resolution Minimal Ideals
+79,math,math.AC,38,"ring, local, graded, rings, study",Graded Local Rings
+80,math,math.AG,32,"bundles, cohomology, given, manifold, vector bundles",Vector Bundle Cohomology
+81,math,math.AP,7,"differential, operators, differential operators, partial differential, partial",Differential Operator Analysis
+82,math,math.AP,43,"equations, equation, solutions, solution, method",Equations Solutions Equation
+83,math,math.AT,16,"homotopy, groups, homotopy groups, cohomology, compute",Homotopy Group Cohomology Computation
+84,math,math.AT,27,"space, category, spaces, symmetric, model",Symmetric Space Models
+85,math,math.CA,44,"polynomials, orthogonal, orthogonal polynomials, functions, operator",Orthogonal Polynomials Polynomials Orthogonal
+86,math,math.CO,12,"binomial, functions, sequences, examples, les",Binomial Function Sequences
+87,math,math.CO,38,"graphs, given, proof, sets, number",Given Graph Number Sets Proof
+88,math,math.CT,26,"categories, theory, notion, category, monoidal",Categories Category Monoidal
+89,math,math.CV,24,"analytic, homeomorphisms, theorem, real, domains",Analytic Homeomorphisms Theorem
+90,math,math.DG,18,"functions, manifolds, manifold, structures, infinity",Infinite Function Manifolds
+91,math,math.DG,18,"lie, bundle, vector, differential, smooth",Differential Bundle Vector
+92,math,math.DS,39,"maps, measure, set, sets, prove",Measure Prove Maps
+93,math,math.FA,14,"space, banach, banach space, isomorphic, approximation property",Banach Space Isomorphism
+94,math,math.FA,27,"spaces, operator, space, interpolation, banach",Operator Space Interpolation
+95,math,math.GM,17,"sequences, integer, problems, using, polynomial",Polynomial Sequences Problems
+96,math,math.GM,13,"mathematical, new, logic, devoted, article",Mathematical Devoted Article
+97,math,math.GN,40,"spaces, topological, paper, space, groups",Topological Spaces And Groups
+98,math,math.GR,16,"group, available, algorithms, problem, presented",Available Group Algorithms
+99,math,math.GR,15,"groups, free, biautomatic, hyperbolic, new",Biautomatic Hyperbolic Groups
+100,math,math.GT,24,"manifolds, manifold, hyperbolic, closed, group",Closed Hyperbolic Manifold Groups
+101,math,math.GT,15,"theory, dehn, homology, applications, results",Dehn Homology Theory Applications
+102,math,math.HO,15,"proof, algebra, mathematical, proofs, electronic",Mathematical Electronic Algebra
+103,math,math.HO,12,"complexity, mathematics, theoretical, physics, theoretical physics",Complexity In Theoretical Mathematics And
+104,math,math.HO,14,"author, numbers, theory, biographical, sketch",Author S Number Theory Sketch
+105,math,math.IT,16,"codes, bound, binary, code, quantum",Quantum Binary Codes
+106,math,math.IT,34,"information, channels, capacity, distortion, fading",Information Distortion Channels
+107,math,math.KT,17,"groups, group, conjecture, isomorphism, prove",Group Isomorphism Conjecture Proof
+108,math,math.KT,17,"algebras, hopf, cyclic, cohomology, cyclic cohomology",Cyclic Hopf Algebra Cohomology
+109,math,math.LO,11,"aleph_, universal, uniform, theory, ordering",Universal Ordering Uniform
+110,math,math.LO,16,"iteration, section, omega, omega_, proof",Iteration Section Omega
+111,math,math.MG,38,"convex, sets, theorem, plane, problem",Convex Plane Set Theorem Problem
+112,math,math.MG,11,"conjecture, packing, density, proof, mathmg",Conjecture Density Packing
+113,math,math.MP,22,"equation, systems, equations, type, solutions",Equations Solutions Equation
+114,math,math.NA,49,"nonlinear, numerical, solution, method, problem",Nonlinear Numerical Solution Methods
+115,math,math.NT,12,"riemann, lfunctions, zetafunction, floorx, riemann zetafunction",Riemann Zeta Function Flooring
+116,math,math.NT,10,"modular, forms, modular forms, galois representations, representations",Galois Representations Representations Modular Forms
+117,math,math.NT,14,"function, number, fields, field, finite",Finite Field Functions
+118,math,math.OA,30,"product, algebras, group, calgebras, finite",Finite Group Calgebra Products
+119,math,math.OC,44,"systems, control, fractionalorder, method, laws",Fractionalorder Systems Control
+120,math,math.PR,20,"random, walk, sites, random walk, independent",Random Walk Independent Random
+121,math,math.PR,23,"brownian, motion, brownian motion, space, process",Brownian Motion In Space
+122,math,math.QA,19,"polynomials, algebra, cohomology, algebras, lie",Quantum Cohomology Polynomials
+123,math,math.QA,29,"quantum, algebras, algebra, hopf, hopf algebras",Hopf Algebras Algebras Quantum
+124,math,math.RA,12,"matrix, real, eigenvalues, matrices, bound",Real Matrix Eigenvalue Bounds
+125,math,math.RA,14,"finite, theory, variety, result, congruence",Finite Algebra Variety Congruence
+126,math,math.RA,10,"groups, group, rings, dimension, kg",Dimension Groups Group
+127,math,math.RA,11,"algebra, algebras, dimension, lie, clifford",Dimension Algebras Clifford
+128,math,math.RT,20,"prehomogeneous, vector, prehomogeneous vector, space, spaces",Prehomogeneous Vector Spaces
+129,math,math.RT,27,"representations, lie, algebras, algebra, irreducible",Irreducible Lie Algebra Representations
+130,math,math.SG,40,"symplectic, group, space, hamiltonian, lagrangian",Hamiltonian Symplectic Lagrangian
+131,math,math.SP,34,"operator, spectrum, spectral, eigenvalues, operators",Eigenvalues Operators Operator
+132,math,math.SP,13,"matrixvalued, theorem, operators, proof, schrodinger operators",Matrix-Valued Schrodinger Operators Theorem
+133,math,math.ST,12,"model, regression, angle regression, angle, discussion angle",Angle Regression Model Discussion
+134,math,math.ST,13,"estimators, density, estimator, asymptotic, deconvolution",Deconvolution Estimators Asymptotic
+135,math,math.ST,18,"estimator, likelihood, variance, analysis, parameter",Likelihood-Based Parameter Variance Analysis
+136,math-ph,math-ph,22,"equation, systems, equations, type, solutions",Equation Systems Solutions
+137,nlin,nlin.AO,11,"dynamics, networks, structure, avalanche, dynamical",Structure Avalanche Dynamical
+138,nlin,nlin.AO,18,"distribution, model, information, networks, different",Distribution Information Different
+139,nlin,nlin.CD,22,"method, time, series, time series, models",Time Series Modeling Methods
+140,nlin,nlin.CD,23,"lyapunov, maps, exponents, lyapunov exponents, billiard",Lyapunov Billiard Maps
+141,nlin,nlin.CG,11,"coarse, microscopic, model, method, approach",Microscopic Approach Coarse
+142,nlin,nlin.CG,25,"automata, cellular, cellular automata, ca, rules",Cellular Automata Automata Cellular
+143,nlin,nlin.PS,19,"solitons, spatial, spatial solitons, optical, dark",Dark Spatial Optical Solitons
+144,nlin,nlin.PS,24,"pattern, patterns, solutions, dynamics, equations",Soliton Dynamics Equations
+145,nlin,nlin.SI,16,"nonlinear, equations, solutions, proposed, discrete",Nonlinear Equations Solutions
+146,nlin,nlin.SI,17,"models, lax, transformations, kp, present",Transformations Present Models
+147,nucl-ex,nucl-ex,44,"energy, mev, flow, charge, data",Mev Energy Flow Analysis
+148,nucl-th,nucl-th,31,"model, using, rotational, approximation, nuclear",Rotational Nuclear Approximation Model
+149,physics,physics.acc-ph,12,"colliders, muon, beambeam, collider, discussed",Colliders Discussed Beambeam
+150,physics,physics.acc-ph,38,"beam, bunch, radiation, undulator, wire",Radiation Undulator Bunch
+151,physics,physics.ao-ph,10,"ensemble, forecasts, probabilistic, likelihood, temperature",Ensemble Probabilistic Temperature Forecasts
+152,physics,physics.ao-ph,38,"model, approximation, precipitation, cloud, layer",Multi-Layer Cloud Precipitation Model
+153,physics,physics.app-ph,26,"antenna, power, ghz, solar, cell",Antenna Power Solar
+154,physics,physics.app-ph,21,"frequency, nonlinear, dynamic, regime, emitter",Frequency Nonlinear Dynamic
+155,physics,physics.atm-clus,49,"clusters, cluster, atoms, laser, energy",Laser-Induced Atomic Cluster Energy
+156,physics,physics.atom-ph,19,"momentum, state, population, equations, trapping",Momentum-Trapped State Equations
+157,physics,physics.atom-ph,21,"hyperfine, nuclear, alpha, correction, results",Correction Hyperfine Nuclear
+158,physics,physics.bio-ph,26,"motion, model, approach, human, cells",Human Cell Motion Modeling
+159,physics,physics.bio-ph,11,"bilayer, membrane, methods, lipid, temperature",Lipid Bilayer Temperature Dependence
+160,physics,physics.chem-ph,10,"model, algebraic, models, algebraic model, vibrations",Algebraic Model Vibrations Algebraic
+161,physics,physics.chem-ph,39,"quantum, state, energy, using, states",Quantum State Energy Dynamics
+162,physics,physics.class-ph,17,"equations, maxwell, maxwell equations, lagrangian, solutions",Maxwell Lagrangian Solutions
+163,physics,physics.class-ph,12,"radiation, particle, electromagnetic, field, charge",Electromagnetic Radiation Particle
+164,physics,physics.comp-ph,29,"method, algorithm, systems, methods, presented",Algorithmic Physics Systems
+165,physics,physics.data-an,11,"gaussian, complexity, priors, entropy, mixture",Gaussian Mixture Entropy Analysis
+166,physics,physics.data-an,26,"method, distribution, approach, data, information",Distribution Information Approach
+167,physics,physics.ed-ph,28,"physics, course, quantum, field, students",Quantum Physics Course Field Analysis
+168,physics,physics.ed-ph,17,"motion, discuss, equation, elements, problems",Motion Equation Problems
+169,physics,physics.flu-dyn,49,"flow, fluid, collapse, velocity, flows",Collapse Velocity Fluid
+170,physics,physics.gen-ph,12,"lorentz, particles, vacuum, speed, critical",Critical Lorentz Speed Particles Vacuum
+171,physics,physics.gen-ph,21,"relativity, general, quantum, new, gravitational",New Quantum Gravitational Relativity
+172,physics,physics.geo-ph,24,"model, earths, earth, aftershocks, distribution",Distribution Aftershocks Earths
+173,physics,physics.geo-ph,19,"tec, ionospheric, gps, response, total",Ionospheric Tec Gps Response
+174,physics,physics.hist-ph,21,"theory, general, relativity, physics, quantum",Quantum General Relativity Theory
+175,physics,physics.hist-ph,11,"data, chronology, der, astronomical, historical",Astronomical Chronology Historical
+176,physics,physics.ins-det,19,"energy, high, neutron, detector, source",- High Energy Neutron Detector
+177,physics,physics.ins-det,21,"radiation, detectors, xray, channel, trigger",X-Ray Radiation Channel Triggering
+178,physics,physics.med-ph,9,"images, lesions, gpcalma, grid, radiologists",Gpcalma Lesion Image Grid Analysis
+179,physics,physics.med-ph,38,"dose, mm, model, reconstruction, field",Dose Field Model Reconstruction
+180,physics,physics.optics,27,"scattering, light, nonlinear, pulse, films",Scattering Nonlinear Light
+181,physics,physics.optics,19,"laser, mode, paper, cavity, states",Laser Cavity Mode States
+182,physics,physics.plasm-ph,12,"model, equation, kinetic, obtained, dynamics",Kinetic Plasma Equation Modeling
+183,physics,physics.plasm-ph,28,"plasma, magnetic, field, wave, waves",Magnetic Plasma Field
+184,physics,physics.pop-ph,23,"quantum, world, theory, physics, article",Quantum World Theory
+185,physics,physics.soc-ph,13,"networks, power, network, market, function",Power Network Market Function
+186,physics,physics.soc-ph,37,"model, languages, different, social, physics",Languages Different Physics
+187,physics,physics.space-ph,17,"magnetic, field, magnetic field, solar, wave",Solar Magnetic Waves
+188,physics,physics.space-ph,18,"line, used, period, presented, experiments",Line Period Experiments
+189,q-bio,q-bio.BM,17,"dna, model, length, myosin, kinesin",Kinesin Length Myosin
+190,q-bio,q-bio.BM,27,"folding, protein, proteins, sequence, contact",Proteins Sequence Folding
+191,q-bio,q-bio.CB,42,"model, cells, cell, growth, pattern",Modeling Cell Growth Patterns
+192,q-bio,q-bio.GN,50,"genes, gene, sequences, editing, genome",Gene Editing Sequence Analysis
+193,q-bio,q-bio.MN,26,"models, networks, network, protein, motifs",Networks Network Protein
+194,q-bio,q-bio.MN,12,"stability, model, noise, switch, gene",Stability Switch Model
+195,q-bio,q-bio.NC,18,"network, activity, computation, noise, inputs",Neuron Noise Network Computation
+196,q-bio,q-bio.NC,14,"spike, signal, firing, response, neurons",Spike Signal Response Analysis
+197,q-bio,q-bio.OT,49,"genetic, code, model, genetic code, number",Genetic Code Genetic Number
+198,q-bio,q-bio.PE,8,"longevity, mortality, shape, demographic, model",Demographic Longevity Mortality
+199,q-bio,q-bio.PE,42,"species, model, epidemic, mutation, population",Species Epidemic Mutation Model
+200,q-bio,q-bio.QM,21,"model, models, solution, comparison, problem",Model Comparison For Quantitative Biology
+201,q-bio,q-bio.QM,17,"gene, data, expression, biology, experiments",Experiments Expression Biology
+202,q-bio,q-bio.SC,27,"motor, model, cargo, chromatin, motors",Chromatin Motor Cargo Model
+203,q-bio,q-bio.SC,13,"membrane, field, proteins, layers, oscillations",Membrane Protein Field Oscillations
+204,q-bio,q-bio.TO,49,"model, tumor, growth, paper, tissue",Growth Tissue Model
+205,q-fin,q-fin.CP,46,"model, method, numerical, carlo, volatility",Carlo Volatility Method
+206,q-fin,q-fin.EC,14,"model, economic, dynamic, case, single",Single Economic Dynamic Model
+207,q-fin,q-fin.EC,19,"countries, tax, price, market, products",Countries Products Market
+208,q-fin,q-fin.GN,12,"agents, price, market, equilibrium, density",Equilibrium Density Agents
+209,q-fin,q-fin.GN,13,"market, markets, stock market, stock, integration",Stock Market Integration Analysis
+210,q-fin,q-fin.GN,13,"economics, crisis, econophysics, new, prediction",Econophysics Crisis Prediction
+211,q-fin,q-fin.MF,39,"models, volatility, process, market, time",Volatility Process Models
+212,q-fin,q-fin.PM,22,"portfolio, return, model, returns, market",Portfolio Market Return Model
+213,q-fin,q-fin.PM,20,"utility, problem, paper, function, optimal",Optimal Utility Portfolio Function
+214,q-fin,q-fin.PR,29,"volatility, options, option, implied, pricing",Volatility Options Implied
+215,q-fin,q-fin.PR,15,"credit, default, recovery, bonds, model",Credit Bond Recovery Model
+216,q-fin,q-fin.RM,39,"risk, model, loss, portfolio, default",Portfolio Default Risk Model
+217,q-fin,q-fin.ST,46,"stock, market, distribution, price, financial",Distribution Financial Market
+218,q-fin,q-fin.TR,20,"model, agents, market, models, financial",Agent-Based Market Model
+219,q-fin,q-fin.TR,15,"tick, transaction, optimal, information, costs",Optimal Tick Costs
+220,quant-ph,quant-ph,14,"quantum, information, mechanics, quantum mechanics, shown",Quantum Mechanics Information Mechanics
+221,quant-ph,quant-ph,21,"theory, quantum, measurements, retrodiction, particle",Measurements Retrodiction Particle
+222,stat,stat.AP,15,"study, discussed, problems, expression, test",Expression Testing Problems
+223,stat,stat.AP,24,"data, model, method, based, spatial",Spatial Data Modeling Method
+224,stat,stat.CO,47,"algorithm, methods, sampling, algorithms, models",Algorithms Algorithm Sampling
+225,stat,stat.ME,29,"data, models, networks, network, problem",Networks Network Problem
+226,stat,stat.ML,42,"data, models, algorithm, method, present",Data-Driven Model Selection
+227,stat,stat.OT,28,"problem, random, paper, bayesian, processes",Bayesian Random Processes
+228,stat,stat.OT,13,"university, statistical, statistics, professor, mathematical",Mathematical Statistical University
+229,stat,stat.TH,12,"model, regression, angle regression, angle, discussion angle",Angle Regression Model Discussion
+230,stat,stat.TH,13,"estimators, density, estimator, asymptotic, deconvolution",Asymptotic Density Deconvolution
+231,stat,stat.TH,18,"estimator, likelihood, variance, analysis, parameter",Likelihood Estimator Parameter

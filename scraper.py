@@ -7,7 +7,7 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-from constants.constants import * 
+from constants.constants_map import * 
 
 # Download necessary resources for text cleaning
 nltk.download('stopwords')

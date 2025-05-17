@@ -1,0 +1,645 @@
+{
+  "astro-ph": {
+    "astro-ph.CO": [
+      "Cosmology and Nongalactic Astrophysics",
+      "Dark Energy Neutrino Interaction",
+      "Galaxy Mass Evolution"
+    ],
+    "astro-ph.EP": [
+      "Earth and Planetary Astrophysics",
+      "Polarization Comets Solar",
+      "Secondary Planetary Eclipses"
+    ],
+    "astro-ph.GA": [
+      "Emission Ionized Diffuse",
+      "Galactic Astrophysics",
+      "Magnetic Star Mass Interaction"
+    ],
+    "astro-ph.HE": [
+      "Gammaray Grb Emission",
+      "High Energy Astrophysical Phenomena",
+      "Radio-Optical Spectra Analysis"
+    ],
+    "astro-ph.IM": [
+      "Background Astronomy Images",
+      "Instrumentation and Methods for Astrophysics",
+      "Polarization Astronomical Excellent"
+    ],
+    "astro-ph.SR": [
+      "Coronal Loop Outflow Model",
+      "Magnetic Fields In Star Clusters",
+      "Solar and Stellar Astrophysics"
+    ]
+  },
+  "cond-mat": {
+    "cond-mat.dis-nn": [
+      "Aging Spin Model Field Study",
+      "Disordered Systems and Neural Networks",
+      "Replica Symmetry Transition Replica"
+    ],
+    "cond-mat.mes-hall": [
+      "Density States Density States",
+      "Double Wire Conductance Formula Solution",
+      "Fractional Quantum Hall States",
+      "Mesoscopic Systems and Quantum Hall Effect",
+      "Persistent Current Generalized Calculated",
+      "Persistent Currents Persistent Currents",
+      "Quantum Hall Transition Conductance"
+    ],
+    "cond-mat.mtrl-sci": [
+      "Crack Velocity Model Simulations",
+      "Ev Materials Energy Calculation Method",
+      "Materials Science"
+    ],
+    "cond-mat.other": [
+      "Condensate Resonance Atoms",
+      "Other Condensed Matter"
+    ],
+    "cond-mat.quant-gas": [
+      "Interaction Condensates Optical",
+      "Quantum Gases",
+      "Superfluid Phase Transition In Disordered"
+    ],
+    "cond-mat.soft": [
+      "Critical Surface Phase Model",
+      "Soft Condensed Matter"
+    ],
+    "cond-mat.stat-mech": [
+      "Critical Anisotropic Surface Scaling",
+      "Critical Phase Transition Modeling",
+      "Interaction Models Matrix",
+      "Statistical Mechanics"
+    ],
+    "cond-mat.str-el": [
+      "Correlations Transition Effective",
+      "Fermi Surface Coupling Surface",
+      "Strongly Correlated Electrons"
+    ],
+    "cond-mat.supr-con": [
+      "Flux Vortex Interaction States",
+      "Superconductivity"
+    ]
+  },
+  "cs": {
+    "cs.AI": [
+      "Artificial Intelligence",
+      "Information Learning Programs",
+      "Search Algorithm Decision Function"
+    ],
+    "cs.AR": [
+      "Hardware Architecture",
+      "Reconfigurable Data Memory Applications",
+      "Reversible Proposed Circuits"
+    ],
+    "cs.CC": [
+      "Computational Complexity",
+      "Hierarchy Language Order",
+      "Solvable Problem Instances"
+    ],
+    "cs.CE": [
+      "Agent-Based Exchange Server Design",
+      "Computational Engineering, Finance, and Science",
+      "Market Price Data Modeling"
+    ],
+    "cs.CG": [
+      "Algorithm Present Points",
+      "Computational Geometry",
+      "Computational Geometry Problems"
+    ],
+    "cs.CL": [
+      "Computation and Language",
+      "Lexical Data Annotation Tagger",
+      "Speech Grammar Processing Rules"
+    ],
+    "cs.CR": [
+      "Algorithm Analysis Protocol",
+      "Cryptography and Security",
+      "Homomorphic Cipher Groups"
+    ],
+    "cs.CV": [
+      "Computer Vision and Pattern Recognition",
+      "Image-Based Algorithm Development"
+    ],
+    "cs.CY": [
+      "Computers and Society",
+      "Internet Paper Regulatory Policy"
+    ],
+    "cs.DB": [
+      "Databases",
+      "Information Management Database",
+      "Language Database Queries"
+    ],
+    "cs.DC": [
+      "Distributed, Parallel, and Cluster Computing",
+      "Grid Data Scheduling",
+      "Parallel Algorithm Register Control"
+    ],
+    "cs.DL": [
+      "Digital Libraries",
+      "Digital Library Information Digital",
+      "Eprint Data Mining"
+    ],
+    "cs.DM": [
+      "Discrete Mathematics",
+      "Graph Author Problem Analysis"
+    ],
+    "cs.DS": [
+      "Data Structure Structure Analysis",
+      "Data Structures and Algorithms",
+      "Set Problem Algorithms"
+    ],
+    "cs.ET": [
+      "Dna-Based Reversible Logic",
+      "Emerging Technologies"
+    ],
+    "cs.FL": [
+      "Formal Languages and Automata Theory",
+      "Generated Grammars Language",
+      "Pushdown Automata Conjecture Proof",
+      "Regular Automata Algorithm"
+    ]
+  },
+  "econ": {
+    "econ.EM": [
+      "Distribution Economic Pricing",
+      "Econometrics",
+      "Treatment Effects Unobserved Treatment"
+    ],
+    "econ.GN": [
+      "General Economics",
+      "New Group Economic Model Complexity",
+      "World Cultural Economic Analysis"
+    ],
+    "econ.TH": [
+      "Agent Belief Models",
+      "Information Energy Point",
+      "Theoretical Economics"
+    ]
+  },
+  "gr-qc": {
+    "gr-qc": [
+      "Black Hole Quantum Field",
+      "Equivalence Of Gravity Gauges",
+      "General Relativity and Quantum Cosmology"
+    ]
+  },
+  "hep-ex": {
+    "hep-ex": [
+      "High Energy Physics - Experiment",
+      "Pi - Ratio In P-P",
+      "Polarization Scattering Asymmetry",
+      "Quark Jet Cross Production"
+    ]
+  },
+  "hep-lat": {
+    "hep-lat": [
+      "Chiral Fermion Mass Simulation",
+      "High Energy Physics - Lattice",
+      "Monte Carlo Algorithm Critical"
+    ]
+  },
+  "hep-ph": {
+    "hep-ph": [
+      "Electroweak Models Model",
+      "Loop Quantum Field Calculation"
+    ]
+  },
+  "hep-th": {
+    "hep-th": [
+      "Conformal Field Theory Fermions",
+      "High Energy Physics - Theory",
+      "Quantum Spatial State Models"
+    ]
+  },
+  "math": {
+    "math.AC": [
+      "Commutative Algebra",
+      "Graded Local Rings",
+      "Resolution Minimal Ideals"
+    ],
+    "math.AG": [
+      "Algebraic Geometry",
+      "Vector Bundle Cohomology"
+    ],
+    "math.AP": [
+      "Differential Operator Analysis",
+      "Equations Solutions Equation"
+    ],
+    "math.AT": [
+      "Algebraic Topology",
+      "Homotopy Group Cohomology Computation",
+      "Symmetric Space Models"
+    ],
+    "math.CA": [
+      "Classical Analysis and ODEs",
+      "Orthogonal Polynomials Polynomials Orthogonal"
+    ],
+    "math.CO": [
+      "Binomial Function Sequences",
+      "Given Graph Number Sets Proof"
+    ],
+    "math.CT": [
+      "Categories Category Monoidal",
+      "Category Theory"
+    ],
+    "math.CV": [
+      "Analytic Homeomorphisms Theorem",
+      "Complex Variables"
+    ],
+    "math.DG": [
+      "Differential Bundle Vector",
+      "Differential Geometry",
+      "Infinite Function Manifolds"
+    ],
+    "math.DS": [
+      "Dynamical Systems",
+      "Measure Prove Maps"
+    ],
+    "math.FA": [
+      "Banach Space Isomorphism",
+      "Functional Analysis",
+      "Operator Space Interpolation"
+    ],
+    "math.GM": [
+      "General Mathematics",
+      "Mathematical Devoted Article",
+      "Polynomial Sequences Problems"
+    ],
+    "math.GN": [
+      "General Topology",
+      "Topological Spaces And Groups"
+    ],
+    "math.GR": [
+      "Available Group Algorithms",
+      "Biautomatic Hyperbolic Groups",
+      "Group Theory"
+    ],
+    "math.GT": [
+      "Closed Hyperbolic Manifold Groups",
+      "Dehn Homology Theory Applications",
+      "Geometric Topology"
+    ],
+    "math.HO": [
+      "Author S Number Theory Sketch",
+      "Complexity In Theoretical Mathematics And",
+      "History and Overview",
+      "Mathematical Electronic Algebra"
+    ],
+    "math.IT": [
+      "Information Distortion Channels",
+      "Quantum Binary Codes"
+    ],
+    "math.KT": [
+      "Cyclic Hopf Algebra Cohomology",
+      "Group Isomorphism Conjecture Proof",
+      "K-Theory and Homology"
+    ],
+    "math.LO": [
+      "Iteration Section Omega",
+      "Logic",
+      "Universal Ordering Uniform"
+    ],
+    "math.MG": [
+      "Conjecture Density Packing",
+      "Convex Plane Set Theorem Problem",
+      "Mathematical Logic"
+    ],
+    "math.MP": [
+      "Equations Solutions Equation",
+      "Mathematical Physics"
+    ],
+    "math.NA": [
+      "Nonlinear Numerical Solution Methods",
+      "Numerical Analysis"
+    ],
+    "math.NT": [
+      "Finite Field Functions",
+      "Galois Representations Representations Modular Forms",
+      "Number Theory",
+      "Riemann Zeta Function Flooring"
+    ],
+    "math.OA": [
+      "Finite Group Calgebra Products",
+      "Operator Algebras"
+    ],
+    "math.OC": [
+      "Fractionalorder Systems Control",
+      "Optimization and Control"
+    ],
+    "math.PR": [
+      "Brownian Motion In Space",
+      "Probability",
+      "Random Walk Independent Random"
+    ],
+    "math.QA": [
+      "Hopf Algebras Algebras Quantum",
+      "Quantum Algebra",
+      "Quantum Cohomology Polynomials"
+    ],
+    "math.RA": [
+      "Dimension Algebras Clifford",
+      "Dimension Groups Group",
+      "Finite Algebra Variety Congruence",
+      "Real Matrix Eigenvalue Bounds",
+      "Rings and Algebras"
+    ],
+    "math.RT": [
+      "Irreducible Lie Algebra Representations",
+      "Prehomogeneous Vector Spaces",
+      "Representation Theory"
+    ],
+    "math.SG": [
+      "Hamiltonian Symplectic Lagrangian",
+      "Symplectic Geometry"
+    ],
+    "math.SP": [
+      "Eigenvalues Operators Operator",
+      "Matrix-Valued Schrodinger Operators Theorem",
+      "Statistics Theory"
+    ],
+    "math.ST": [
+      "Angle Regression Model Discussion",
+      "Deconvolution Estimators Asymptotic",
+      "Likelihood-Based Parameter Variance Analysis",
+      "Statistics"
+    ]
+  },
+  "math-ph": {
+    "math-ph": [
+      "Equation Systems Solutions",
+      "Mathematical Physics"
+    ]
+  },
+  "nlin": {
+    "nlin.AO": [
+      "Adaptation and Self-Organizing Systems",
+      "Distribution Information Different",
+      "Structure Avalanche Dynamical"
+    ],
+    "nlin.CD": [
+      "Chaotic Dynamics",
+      "Lyapunov Billiard Maps",
+      "Time Series Modeling Methods"
+    ],
+    "nlin.CG": [
+      "Cellular Automata Automata Cellular",
+      "Cellular Automata and Lattice Gases",
+      "Microscopic Approach Coarse"
+    ],
+    "nlin.PS": [
+      "Dark Spatial Optical Solitons",
+      "Pattern Formation and Solitons",
+      "Soliton Dynamics Equations"
+    ],
+    "nlin.SI": [
+      "Exactly Solvable and Integrable Systems",
+      "Nonlinear Equations Solutions",
+      "Transformations Present Models"
+    ]
+  },
+  "nucl-ex": {
+    "nucl-ex": [
+      "Mev Energy Flow Analysis",
+      "Nuclear Experiment"
+    ]
+  },
+  "nucl-th": {
+    "nucl-th": [
+      "Nuclear Theory",
+      "Rotational Nuclear Approximation Model"
+    ]
+  },
+  "physics": {
+    "physics.acc-ph": [
+      "Colliders Discussed Beambeam",
+      "Radiation Undulator Bunch"
+    ],
+    "physics.ao-ph": [
+      "Atmospheric and Oceanic Physics",
+      "Ensemble Probabilistic Temperature Forecasts",
+      "Multi-Layer Cloud Precipitation Model"
+    ],
+    "physics.app-ph": [
+      "Antenna Power Solar",
+      "Applied Physics",
+      "Frequency Nonlinear Dynamic"
+    ],
+    "physics.atm-clus": [
+      "Atomic and Molecular Clusters",
+      "Laser-Induced Atomic Cluster Energy"
+    ],
+    "physics.atom-ph": [
+      "Atomic Physics",
+      "Correction Hyperfine Nuclear",
+      "Momentum-Trapped State Equations"
+    ],
+    "physics.bio-ph": [
+      "Biological Physics",
+      "Human Cell Motion Modeling",
+      "Lipid Bilayer Temperature Dependence"
+    ],
+    "physics.chem-ph": [
+      "Algebraic Model Vibrations Algebraic",
+      "Chemical Physics",
+      "Quantum State Energy Dynamics"
+    ],
+    "physics.class-ph": [
+      "Classical Physics",
+      "Electromagnetic Radiation Particle",
+      "Maxwell Lagrangian Solutions"
+    ],
+    "physics.comp-ph": [
+      "Algorithmic Physics Systems",
+      "Computational Physics"
+    ],
+    "physics.data-an": [
+      "Data Analysis, Statistics and Probability",
+      "Distribution Information Approach",
+      "Gaussian Mixture Entropy Analysis"
+    ],
+    "physics.ed-ph": [
+      "Motion Equation Problems",
+      "Physics Education",
+      "Quantum Physics Course Field Analysis"
+    ],
+    "physics.flu-dyn": [
+      "Collapse Velocity Fluid",
+      "Fluid Dynamics"
+    ],
+    "physics.gen-ph": [
+      "Critical Lorentz Speed Particles Vacuum",
+      "General Physics",
+      "New Quantum Gravitational Relativity"
+    ],
+    "physics.geo-ph": [
+      "Distribution Aftershocks Earths",
+      "Geophysics",
+      "Ionospheric Tec Gps Response"
+    ],
+    "physics.hist-ph": [
+      "Astronomical Chronology Historical",
+      "History and Philosophy of Physics",
+      "Quantum General Relativity Theory"
+    ],
+    "physics.ins-det": [
+      "- High Energy Neutron Detector",
+      "Instrumentation and Detectors",
+      "X-Ray Radiation Channel Triggering"
+    ],
+    "physics.med-ph": [
+      "Dose Field Model Reconstruction",
+      "Gpcalma Lesion Image Grid Analysis",
+      "Medical Physics"
+    ],
+    "physics.optics": [
+      "Laser Cavity Mode States",
+      "Optics",
+      "Scattering Nonlinear Light"
+    ],
+    "physics.plasm-ph": [
+      "Kinetic Plasma Equation Modeling",
+      "Magnetic Plasma Field",
+      "Plasma Physics"
+    ],
+    "physics.pop-ph": [
+      "Popular Physics",
+      "Quantum World Theory"
+    ],
+    "physics.soc-ph": [
+      "Languages Different Physics",
+      "Power Network Market Function"
+    ],
+    "physics.space-ph": [
+      "Line Period Experiments",
+      "Solar Magnetic Waves",
+      "Space Physics"
+    ]
+  },
+  "q-bio": {
+    "q-bio.BM": [
+      "Biomolecules",
+      "Kinesin Length Myosin",
+      "Proteins Sequence Folding"
+    ],
+    "q-bio.CB": [
+      "Cell Behavior",
+      "Modeling Cell Growth Patterns"
+    ],
+    "q-bio.GN": [
+      "Gene Editing Sequence Analysis"
+    ],
+    "q-bio.MN": [
+      "Molecular Networks",
+      "Networks Network Protein",
+      "Stability Switch Model"
+    ],
+    "q-bio.NC": [
+      "Neuron Noise Network Computation",
+      "Neurons and Cognition",
+      "Spike Signal Response Analysis"
+    ],
+    "q-bio.OT": [
+      "Genetic Code Genetic Number",
+      "Other Quantitative Biology"
+    ],
+    "q-bio.PE": [
+      "Demographic Longevity Mortality",
+      "Species Epidemic Mutation Model"
+    ],
+    "q-bio.QM": [
+      "Experiments Expression Biology",
+      "Model Comparison For Quantitative Biology",
+      "Quantitative Methods"
+    ],
+    "q-bio.SC": [
+      "Chromatin Motor Cargo Model",
+      "Membrane Protein Field Oscillations",
+      "Subcellular Processes"
+    ],
+    "q-bio.TO": [
+      "Growth Tissue Model",
+      "Tissues and Organs"
+    ]
+  },
+  "q-fin": {
+    "q-fin.CP": [
+      "Carlo Volatility Method",
+      "Computational Finance"
+    ],
+    "q-fin.EC": [
+      "Countries Products Market",
+      "Economics",
+      "Single Economic Dynamic Model"
+    ],
+    "q-fin.GN": [
+      "Econophysics Crisis Prediction",
+      "Equilibrium Density Agents",
+      "General Finance",
+      "Stock Market Integration Analysis"
+    ],
+    "q-fin.MF": [
+      "Mathematical Finance",
+      "Volatility Process Models"
+    ],
+    "q-fin.PM": [
+      "Optimal Utility Portfolio Function",
+      "Portfolio Management",
+      "Portfolio Market Return Model"
+    ],
+    "q-fin.PR": [
+      "Credit Bond Recovery Model",
+      "Pricing of Securities",
+      "Volatility Options Implied"
+    ],
+    "q-fin.RM": [
+      "Portfolio Default Risk Model",
+      "Risk Management"
+    ],
+    "q-fin.ST": [
+      "Distribution Financial Market",
+      "Statistical Finance"
+    ],
+    "q-fin.TR": [
+      "Agent-Based Market Model",
+      "Optimal Tick Costs",
+      "Trading and Market Microstructure"
+    ]
+  },
+  "quant-ph": {
+    "quant-ph": [
+      "Measurements Retrodiction Particle",
+      "Quantum Mechanics Information Mechanics",
+      "Quantum Physics"
+    ]
+  },
+  "stat": {
+    "stat.AP": [
+      "Applications",
+      "Expression Testing Problems",
+      "Spatial Data Modeling Method"
+    ],
+    "stat.CO": [
+      "Algorithms Algorithm Sampling",
+      "Computation"
+    ],
+    "stat.ME": [
+      "Methodology",
+      "Networks Network Problem"
+    ],
+    "stat.ML": [
+      "Data-Driven Model Selection",
+      "Machine Learning"
+    ],
+    "stat.OT": [
+      "Bayesian Random Processes",
+      "Mathematical Statistical University",
+      "Other Statistics"
+    ],
+    "stat.TH": [
+      "Angle Regression Model Discussion",
+      "Asymptotic Density Deconvolution",
+      "Likelihood Estimator Parameter",
+      "Statistics Theory"
+    ]
+  }
+}
